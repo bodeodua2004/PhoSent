@@ -7,7 +7,7 @@ Tạo một file text đặt tên là .env, và paste API Key của bạn vào t
 
 Mở Terminal
 
-Điều hướng đến thư mục Backend bằng lệnh cd DUONG_DAN_DEN_THU_MUC_CUA_BAN
+Điều hướng đến thư mục Backend bằng lệnh: cd DUONG_DAN_DEN_THU_MUC_CUA_BAN
 
 Tạo một môi trường ảo với câu lệnh: python3 -m venv venv
 
