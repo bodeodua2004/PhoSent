@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>PhoSent</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">PhoSent</h1>
+    
+    <div class="market-vnindex">
+      <div class="market-sentiment">
+        <h2>Market Sentiment</h2>
+        <div class="gauge">
+          <div class="score" id="market-score">Đang tải...</div>
+          <div class="label" id="market-evaluation">...</div>
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="vn-index">
+        <h2>VN Index</h2>
+        <div class="vn-value"><strong>1,347.25</strong></div>
+        <div class="vn-change"><strong>+10.95 (+0.82%)</strong></div>
+      </div>
+    </div>
+
+    <!-- Nút "Phân tích" -->
+    <button id="analyze-button" class="analyze-button">Phân tích bài báo đang đọc</button>
+    
+    <!-- Vùng hiển thị kết quả phân tích bài báo đơn lẻ -->
+    <div class="single-article-analysis-results" id="single-article-results" style="display: none;">
+      <p id="analysis-status" style="text-align: center; margin-top: 10px; font-style: italic;">Đang chờ phân tích...</p>
+
+      <div class="section">
+        <h3>Cảm xúc Bài báo</h3>
+        <div class="news-sentiment-summary" id="single-article-sentiment">Đang tải...</div>
+      </div>
+
+      <div class="section">
+        <h3>Ngành liên quan</h3>
+        <div class="industry-list" id="single-article-industry-list">Đang tải...</div>
+      </div>
+
+      <div class="section">
+        <h3>Mã cổ phiếu</h3>
+        <div class="stock-list" id="single-article-stock-list">Đang tải...</div>
+      </div>
+    </div>
+
+    <div class="bottom-bar">
+      <div class="feedback">Feedback</div> <!-- Đã bỏ class button-frame -->
+      <div class="right-icons">
+        <div class="icons button-frame">?</div>
+        <!-- Đã loại bỏ biểu tượng bánh răng (settings) -->
+      </div>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

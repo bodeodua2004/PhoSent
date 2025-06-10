@@ -1,0 +1,261 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f2f5; /* Light greyish blue from the image */
+  width: 350px; /* Standard width for Chrome Extension popup */
+  color: #333;
+}
+
+.container {
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 12px; /* Slightly more rounded corners */
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1); /* Stronger shadow */
+}
+
+.title {
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 700;
+  color: #2c3e50; /* Dark blue */
+  text-align: center;
+  margin-bottom: 30px; /* More space */
+  font-size: 30px; /* Slightly larger */
+}
+
+.market-vnindex {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start; /* Align to top for better vertical flow */
+  margin-bottom: 25px;
+  padding: 20px 0; /* More padding */
+  border: none; /* Remove border */
+  border-radius: 10px; /* Rounded corners */
+  background-color: #fdfdfd; /* Keep light background */
+}
+
+.market-sentiment, .vn-index {
+  text-align: center;
+  flex: 1;
+  padding: 0 15px; /* More padding */
+}
+
+.market-sentiment h2, .vn-index h2, .section h3 {
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 700;
+  color: #34495e;
+  font-size: 19px; /* Slightly larger */
+  margin-top: 0;
+  margin-bottom: 15px; /* More space */
+}
+
+/* --- Market Sentiment Gauge Styling --- */
+.gauge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative; /* For pseudo-elements */
+  width: 120px; /* Size of the gauge area */
+  height: 120px; /* Size of the gauge area */
+  border-radius: 50%; /* Make it circular */
+  overflow: hidden; /* Hide parts of pseudo-elements outside circle */
+  margin: 0 auto 10px auto; /* Center and add margin */
+}
+
+.gauge::before { /* Top half of the gauge background */
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50%; /* Only top half */
+    background-color: #e0e0e0; /* Default background for empty gauge */
+    border-radius: 60px 60px 0 0; /* Rounded top corners */
+}
+
+.gauge .score {
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 700;
+  font-size: 38px; /* Larger */
+  color: #2c3e50; /* Darker color for score */
+  z-index: 1; /* Bring text above pseudo-elements */
+  margin-top: 25px; /* Adjust vertical position */
+}
+
+.gauge .label {
+  font-size: 14px; /* Slightly smaller than score */
+  font-weight: 700;
+  padding: 2px 8px; /* Smaller padding */
+  border-radius: 5px;
+  color: white;
+  z-index: 1; /* Bring text above pseudo-elements */
+  background-color: #7f8c8d; /* Neutral gray by default */
+}
+
+/* Sentiment specific colors for labels AND gauge background */
+.gauge.sentiment-tích_cực::before {
+    background: linear-gradient(to right, #e0e0e0 50%, #27ae60 50%); /* Green on the right half, simulating positive */
+}
+.gauge.sentiment-trung_lập::before {
+    background-color: #f39c12; /* Orange for neutral gauge */
+}
+.gauge.sentiment-tiêu_cực::before {
+    background: linear-gradient(to right, #c0392b 50%, #e0e0e0 50%); /* Red on the left half, simulating negative */
+}
+/* Ensure label colors also match */
+.label.sentiment-tích_cực, .news-sentiment-summary.sentiment-tích_cực {
+  background-color: #27ae60; /* Green */
+}
+.label.sentiment-trung_lập, .news-sentiment-summary.sentiment-trung_lập {
+  background-color: #f39c12; /* Orange */
+}
+.label.sentiment-tiêu_cực, .news-sentiment-summary.sentiment-tiêu_cực {
+  background-color: #c0392b; /* Red */
+}
+.label.sentiment-không_xác_định, .label.sentiment-lỗi, .label.sentiment-không_có_nội_dung,
+.label.sentiment-lỗi_phân_tích, .label.sentiment-lỗi_kết_nối,
+.news-sentiment-summary.sentiment-không_xác_định, .news-sentiment-summary.sentiment-lỗi,
+.news-sentiment-summary.sentiment-không_có_nội_dung, .news-sentiment-summary.sentiment-lỗi_phân_tích,
+.news-sentiment-summary.sentiment-lỗi_kết_nối {
+  background-color: #7f8c8d; /* Gray for default/error states */
+}
+
+
+.divider {
+  width: 1px;
+  background-color: #e0e0e0;
+  height: 100px; /* Adjust height as needed */
+  margin: 0 15px;
+}
+
+.vn-value strong {
+  font-size: 32px; /* Larger */
+  color: #2c3e50; /* Darker color */
+}
+
+.vn-change strong {
+  font-size: 18px; /* Larger */
+  color: #27ae60; /* Green for positive change */
+}
+
+/* Nút phân tích */
+.analyze-button {
+    background-color: #3498db; /* Blue */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px; /* Slightly more rounded */
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 25px; /* More space */
+    transition: background-color 0.3s ease;
+}
+
+.analyze-button:hover {
+    background-color: #2980b9;
+}
+
+.analyze-button:active {
+    background-color: #2c3e50;
+}
+
+.section {
+  background-color: #fdfdfd;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px; /* Rounded corners */
+  padding: 15px 20px; /* More padding */
+  margin-bottom: 20px;
+}
+
+.news-sentiment-summary {
+  font-size: 16px;
+  font-weight: 700;
+  padding: 10px 15px; /* More padding */
+  border-radius: 8px; /* Slightly more rounded */
+  color: white;
+  text-align: center;
+  background-color: #7f8c8d; /* Default neutral */
+}
+
+/* Phần tử con trong .industry-list và .stock-list */
+/* Đã điều chỉnh cách xử lý khoảng cách cho flexbox */
+.industry-list, .stock-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px; /* Tăng khoảng cách giữa các thẻ (cả ngang và dọc) */
+}
+
+.industry-list span, .stock-list span {
+  background-color: #e0e6ed; /* Lighter background for tags */
+  color: #2c3e50; /* Darker text for tags */
+  padding: 8px 15px; /* More padding */
+  border-radius: 25px; /* More rounded, pill shape */
+  font-size: 14px;
+  border: none; /* Remove border */
+  word-break: break-word; /* Đảm bảo ngắt từ dài */
+  /* margin-bottom đã được loại bỏ để chỉ sử dụng gap */
+}
+
+/* Footer Styling */
+.bottom-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px; /* More padding top */
+  border-top: 1px solid #e0e0e0;
+  font-size: 15px; /* Slightly larger */
+}
+
+.feedback { /* Feedback is now just text/link */
+  color: #7f8c8d; /* Grey color from image */
+  font-weight: 600; /* Slightly bolder */
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.feedback:hover {
+  color: #34495e; /* Darker on hover */
+}
+
+.right-icons {
+    display: flex;
+    gap: 10px; /* More space between icons */
+}
+
+.button-frame { /* Applies only to '?' icon now */
+    padding: 6px 10px;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-frame:hover {
+    background-color: #e0e0e0;
+    border-color: #95a5a6;
+}
+
+.right-icons .icons {
+    font-size: 20px; /* Slightly larger icon */
+    width: 32px; /* Slightly larger size */
+    height: 32px;
+    box-sizing: border-box;
+    color: #7f8c8d; /* Grey color for icon */
+}
+
+
+.error-message {
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid red;
+    background-color: #ffe0e0;
+    border-radius: 5px;
+}

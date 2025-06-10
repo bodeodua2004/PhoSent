@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "PhoSent - Phân Tích Thị Trường",
+  "version": "1.1", // Tăng phiên bản khi có thay đổi lớn
+  "description": "Chrome Extension phân tích cảm xúc và tổng điểm thị trường từ Vneconomy, bao gồm phân tích bài báo đơn.",
+  "permissions": [
+    "activeTab",
+    "scripting", // Cần quyền này để inject scripts vào trang web
+    "storage"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:8000/*", // Cho phép extension truy cập API backend của bạn
+    "https://vneconomy.vn/*" // Cho phép content script chạy trên các trang vneconomy
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js" // Script chạy nền để xử lý API calls
+  },
+  "content_scripts": [ // Khai báo content script
+    {
+      "matches": ["https://vneconomy.vn/*"], // Script này sẽ chạy trên tất cả các trang của vneconomy.vn
+      "js": ["content.js"] // Đường dẫn đến file content script của bạn
+    }
+  ]
+}
