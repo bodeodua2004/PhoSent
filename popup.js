@@ -19,6 +19,7 @@ async function fetchMarketData() {
         const marketEvaluationElement = document.getElementById('market-evaluation');
         
         if (marketScoreElement) {
+            marketScoreElement.style.fontSize = "38px";
             marketScoreElement.textContent = data.total_market_score.toFixed(1);
         }
         if (marketEvaluationElement) {
