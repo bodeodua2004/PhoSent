@@ -1,0 +1,636 @@
+[
+    {
+        "id":"1",
+        "date":"2025-06-08",
+        "title":"1",
+        "link":"https:\/\/vneconomy.vn\/don-doc-tap-chi-kinh-te-viet-nam-so-23-2025.htm",
+        "content":null,
+        "sector":"BĐS",
+        "companies":[
+            {
+                "company_name":"Công ty Cổ phần Đầu tư và Phát triển Bất động sản An Gia",
+                "company_stock_id":"AGG"
+            },
+            {
+                "company_name":"Công ty Cổ phần Tập đoàn Sao Mai",
+                "company_stock_id":"ASM"
+            },
+            {
+                "company_name":"Công ty Cổ phần Tập đoàn Bamboo Capital",
+                "company_stock_id":"BCG"
+            },
+            {
+                "company_name":"Tổng Công ty Đầu tư và Phát triển Công nghiệp",
+                "company_stock_id":"BCM"
+            },
+            {
+                "company_name":"CTCP Bất động sản Thế Kỷ",
+                "company_stock_id":"CRE"
+            },
+            {
+                "company_name":"Tổng Công ty cổ phần Đầu tư Phát triển Xây dựng",
+                "company_stock_id":"DIG"
+            },
+            {
+                "company_name":"CTCP Tập đoàn Đất Xanh",
+                "company_stock_id":"DXG"
+            },
+            {
+                "company_name":"CTCP Dịch vụ Bất động sản Đất Xanh",
+                "company_stock_id":"DXS"
+            },
+            {
+                "company_name":"CTCP Phát triển Nhà Bà Rịa - Vũng Tàu",
+                "company_stock_id":"HDC"
+            },
+            {
+                "company_name":"CTCP Tập đoàn Hà Đô",
+                "company_stock_id":"HDG"
+            },
+            {
+                "company_name":"CTCP Kinh Bắc City",
+                "company_stock_id":"KBC"
+            },
+            {
+                "company_name":"CTCP Đầu tư và Kinh doanh nhà Khang Điền",
+                "company_stock_id":"KDH"
+            },
+            {
+                "company_name":"CTCP Kosy",
+                "company_stock_id":"KOS"
+            },
+            {
+                "company_name":"CTCP Phát triển Bất động sản Phát Đạt",
+                "company_stock_id":"PDR"
+            },
+            {
+                "company_name":"CTCP Nam Long",
+                "company_stock_id":"NLG"
+            },
+            {
+                "company_name":"CTCP Vinhomes",
+                "company_stock_id":"VHM"
+            },
+            {
+                "company_name":"CTCP Phát triển Bất động sản Văn Phú",
+                "company_stock_id":"VPI"
+            }
+        ],
+        "sentiment_label_predicted":-99,
+        "sentiment_text_label":"Lỗi",
+        "sentiment_score":0,
+        "He_so":5.5,
+        "article_score":0.0
+    },
+    {
+        "id":"2",
+        "date":"2025-06-08",
+        "title":"2",
+        "link":"https:\/\/vneconomy.vn\/fpt-du-chi-1-481-ty-dong-tra-co-tuc-con-lai-nam-2024.htm",
+        "content":"Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh thông báo về ngày đăng ký cuối cùng trả cổ tức còn lại năm 2024 bằng tiền của Công ty Cổ phần FPT (mã FPT-HOSE).\nTheo đó, FPT chốt danh sách cổ đông để thanh tóan cổ tức năm 2024 bằng tiền với tỷ lệ 20% (1 cp được nhận 2.000 đồng). Ngày đăng ký cuối cùng là ngày 13\/6 và ngày thanh toán là ngày 20\/6. Với 1.481.330.122 cổ phiếu đang lưu hành, tổng số tiền mà FPT dự kiến chi trả lên tới 1.481 tỷ đồng.\nTrước đó, HĐQT FPT thông qua việc triển khai phương án phát hành cổ phiếu tăng vốn từ nguồn vốn chủ sở hữu được Đại hội đồng cổ đông thường niên 2025 thông qua. Theo đó, FPT dự kiến phát hành 222,2 triệu cổ phiếu, tương ứng tỷ lệ 15% (cổ đông sở hữu 20 cổ phiếu được nhận 3 cổ phiếu mới). Thời gian thực hiện không muộn hơn quý 3\/2025.\nVề kết quả kinh doanh 4 tháng đầu năm 2025, FPT ghi nhận doanh thu đạt 21.557 tỷ đồng và lợi nhuận trước thuế đạt 4.065 tỷ đồng, lần lượt tăng 13,5% và 17,9% so với cùng kỳ. Lợi nhuận sau thuế cho cổ đông công ty mẹ (lãi ròng) tăng 18% lên 2.897 tỷ đồng, tương ứng EPS ở mức 1.970 đồng\/cổ phiếu.\nTính riêng tháng 4\/2025, doanh thu FPT đạt 5.499 tỷ, tăng 12,3% so với cùng kỳ năm trước. Lãi ròng tháng 4 tăng 10% so với cùng kỳ năm trước lên 723 tỷ đồng.\nNăm 2025, FPT lên kế hoạch kinh doanh tham vọng với mục tiêu doanh thu đạt 75.400 tỷ và lợi nhuận trước thuế 13.395 tỷ đồng, lần lượt tăng 20% và 21% so với thực hiện 2024. Với kết quả đạt được sau 4 tháng đầu năm, tập đoàn đã thực hiện khoảng 30% các kế hoạch đề ra.\nQua đó, VCSC nâng khuyến nghị cho cổ phiếu FPT từ \"khả quan\" lên \"mua\" nhưng điều chỉnh giảm 11% giá mục tiêu xuống 138.700 đồng\/cổ phiếu do giá cổ phiếu đã giảm khoảng 18% trong 3 tháng qua.\nVCSC cho biết sự điều chỉnh giá cổ phiếu đã đưa định giá của FPT xuống mức P\/E dự phóng năm 2025\/26 lần lượt là 20,8 lần\/17,0 lần (so với P\/E trượt trung bình 3 năm là 20,5 lần), giúp FPT trở thành cơ hội đầu tư dài hạn hấp dẫn.\nTheo VCSC, việc điều chỉnh giảm 11% trong giá mục tiêu của VCSC cho FPT phản ánh dự báo LNST sau lợi ích CĐTS năm 2025 thấp hơn 7%, mức giảm 13%\/15% trong P\/E mục tiêu cho phân mảng CNTT nước ngoài\/CNTT trong nước xuống 26 lần\/18 lần (từ mức 30 lần\/21 lần) sau khi giảm 5%\/30% dự phóng tổng LNTT giai đoạn 2024-27 cho các phân mảng này (do chi tiêu CNTT thận trọng bị ảnh hưởng gián tiếp bởi những bất ổn vĩ mô), và thay đổi phương pháp định giá phân mảng dịch vụ cho thuê GPU (GPUaaS) từ chiết khấu dòng tiền (CKDT) sang bội số P\/E mục tiêu do triển vọng kém rõ ràng hơn trước về dòng tiền dài hạn trong bối cảnh công nghệ thay đổi nhanh chóng. Những yếu tố này một phần được bù đắp bởi tác động tích cực của việc VCSC cập nhật mô hình định giá sang giữa năm 2026.\nMặc dù VCSC dự phóng đà tăng trưởng năm 2025 của FPT sẽ tạm chững lại, VCSC vẫn duy trì quan điểm lạc quan về triển vọng trung hạn, dẫn dắt bởi phân mảng CNTT toàn cầu với vị thế tốt để hưởng lợi từ việc chi tiêu CNTT toàn cầu tăng lên, tận dụng lợi thế chi phí lao động cạnh tranh và năng lực công nghệ được cải thiện. Phân mảng này còn được bổ trợ bởi các mảng viễn thông và giáo dục ổn định của FPT.\nVCSC cũng cho biết, yếu tố hỗ trợ\/rủi ro đối với FPT là chi tiêu CNTT toàn cầu và mức độ áp dụng chuyển đối số (DX) cao hơn\/thấp hơn; tiến độ trung tâm dữ liệu (DC) FPT Fornix HCMC02 nhanh hơn\/chậm hơn; mức độ tăng tốc tỷ lệ sử dụng nhà máy AI nhanh hơn\/chậm hơn.\nChốt phiên ngày 6\/6\/2025, giá cổ phiếu này giảm 1,54% xuống còn 115.000 đồng\/cổ phiếu.",
+        "sector":"Công nghệ",
+        "companies":[
+            {
+                "company_name":"Công ty Cổ phần FPT",
+                "company_stock_id":"FPT"
+            }
+        ],
+        "sentiment_label_predicted":2,
+        "sentiment_text_label":"Trung lập",
+        "sentiment_score":0,
+        "He_so":3.0,
+        "article_score":0.0
+    },
+    {
+        "id":"3",
+        "date":"2025-06-07",
+        "title":"3",
+        "link":"https:\/\/vneconomy.vn\/vung-1-320-van-dang-la-vung-ho-tro-then-chot-cho-xu-huong-ngan-han-cua-chi-so-vn-index.htm",
+        "content":"VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường tuần từ 9-13\/6\/2025.\nTrong tuần, VN-Index giảm 2,71 điểm, tương đương 0,2% xuống 1.329,89 điểm. Trong khi đó, Hnx-Index tăng 5,39 điểm, tương đương 2,41% lên 228,61 điểm.\nThị trường sẽ tiếp tục điều chỉnh tích lũy phía dưới vùng kháng cự đỉnh cũ\n(Công ty Cổ phần Chứng khoán Bảo Việt – BVSC) “Sau giai đoạn tăng điểm mạnh trước đó, áp lực điều chỉnh ngắn hạn có thể sẽ tiếp tục xuất hiện ở nhiều nhóm cổ phiếu. Thị trường sẽ tiếp tục điều chỉnh tích lũy phía dưới vùng kháng cự đỉnh cũ.\nNhà đầu tư xem xét bán chốt lời từng phần giảm tỷ trọng danh mục, đặc biệt khi VN-Index tiếp cận vùng kháng cự 1.345-1.355 điểm. Đồng thời thiết lập các lệnh trailing stop cho các vị thế ngắn hạn đang có trong danh mục để bảo toàn lợi nhuận”.\nPhiên tới, nhà đầu tư cần thận trọng trước khả năng chỉ số tiếp tục lùi xuống dưới ngưỡng này và trở về 1.320\n(Công ty Cổ phần Chứng khoán Ngân hàng Đầu tư và Phát triển Việt Nam – BSC)\n\"VN-Index tiếp tục giảm hơn 12 điểm trong ngày hôm nay và đóng cửa tại mốc 1.329,89 điểm. Độ rộng thị trường nghiêng về phía tiêu cực với 16\/18 ngành giảm điểm, trong đó ngành Truyền thông, Hóa chất, Dịch vụ tài chính, Bán lẻ giảm trên 2%. Ở chiều ngược lại, ngành Dầu khí và Tài nguyên cơ bản có phiên giao dịch tích cực. Về giao dịch của khối ngoại, hôm nay khối này bán ròng hơn 2 nghìn tỷ đồng trên sàn HSX (chủ yếu là mã VHM). VN-Index đã giảm chạm ngưỡng hỗ trợ 1.330. Trong những phiên tới, nhà đầu tư cần thận trọng trước khả năng chỉ số tiếp tục lùi xuống dưới ngưỡng này và trở về 1.320\".\nDự kiến, VN-Index sẽ có phiên hồi phục kỹ thuật\n(Công ty Cổ phần Chứng khoán Bản Việt – VCSC)\n“Hiện tại, VN-Index và chỉ số VN30 đều đã chạm mục tiêu điều chỉnh ngắn hạn (đường MA20). Do đó, trong tuần sau, VN-Index sẽ có phiên hồi phục kỹ thuật với kháng cự là MA5 (1.340 điểm) và hỗ trợ là MA20 (vùng 1.322 điểm). Phục hồi trên thanh khoản thấp sẽ thể hiện sự suy yếu của hoạt động mua, kéo dài giai đoạn điều chỉnh và tăng khả năng vi phạm vùng hỗ trợ 1.322 điểm trong thời gian tới”.\nVùng 1.320 vẫn đang là vùng hỗ trợ then chốt cho xu hướng ngắn hạn của chỉ số VN-Index\n(Công ty Cổ phần Chứng khoán SSI – SSI)\n“Trên đồ thị tuần VN-Index duy trì trạng thái ổn định dù bước đầu ghi nhận tín hiệu suy yếu của độ rộng hay chỉ báo kỹ thuật (MACD, Stochastic) ngắn hạn.\nVùng 1.320 vẫn đang là vùng hỗ trợ then chốt cho xu hướng ngắn hạn của chỉ số”.\nNhận định thị trường của các công ty chứng khoán được VnEconomy trích dẫn chỉ có giá trị như một nguồn thông tin tham khảo. Các công ty chứng khoán có thể có những xung đột lợi ích đối với các nhà đầu tư khi đưa ra nhận định.",
+        "sector":"Chứng khoán",
+        "companies":[
+            {
+                "company_name":"CTCP Chứng khoán Bảo Việt",
+                "company_stock_id":"BVH"
+            },
+            {
+                "company_name":"CTCP Chứng khoán Ngân hàng Công thương Việt Nam",
+                "company_stock_id":"CTS"
+            },
+            {
+                "company_name":"CTCP Chứng khoán Bản Việt",
+                "company_stock_id":"VCSC"
+            },
+            {
+                "company_name":"CTCP Chứng khoán SSI",
+                "company_stock_id":"SSI"
+            }
+        ],
+        "sentiment_label_predicted":2,
+        "sentiment_text_label":"Trung lập",
+        "sentiment_score":0,
+        "He_so":4.0,
+        "article_score":0.0
+    },
+    {
+        "id":"4",
+        "date":"2025-06-07",
+        "title":"4",
+        "link":"https:\/\/vneconomy.vn\/ong-trinh-van-quyet-va-hai-em-gai-khac-phuc-gan-2-500-ty-dong.htm",
+        "content":"Trước khi phiên toà phúc thẩm diễn ra vào ngày 17\/6, ông Trịnh Văn Quyết – cựu Chủ tịch HĐQT Tập đoàn FLC – cùng hai em gái là Trịnh Thị Minh Huế và Trịnh Thị Thuý Nga đã nộp tổng số tiền gần 2.500 tỷ đồng để khắc phục toàn bộ hậu quả vụ án.\nSố tiền nộp khắc phục vượt quá số thiệt hại, với mức nộp thừa hơn 10 tỷ đồng.\nBà Lê Thị Ngọc Diệp – vợ ông Trịnh Văn Quyết đã gửi đơn đến Hội đồng xét xử phúc thẩm.\nTheo đơn này, gia đình ông Quyết đã thể hiện rõ tinh thần trách nhiệm, sự cầu thị và thiện chí khắc phục hậu quả, coi đây là lời xin lỗi chân thành đối với các cổ đông, nhà đầu tư và xã hội.\nNhư vậy, ông Trịnh Văn Quyết và hai em gái đã nộp đủ toàn bộ số tiền khắc phục hậu quả. Công ty Cổ phần Chứng khoán BOS cũng đã hoàn thành nghĩa vụ nộp toàn bộ khoản tiền mà bản án sơ thẩm tuyên buộc phải nộp.\nDự kiến ngày 17\/6, TAND Cấp cao tại Hà Nội xét xử phúc thẩm vụ án xảy ra tại Tập đoàn FLC. Phiên tòa dự kiến diễn ra từ ngày 17 đến 21\/6\/2025.\nHội đồng xét xử gồm chủ tọa phiên tòa là Thẩm phán Võ Hồng Sơn và các thẩm phán Nguyễn Hải Thanh, Hồ Sỹ Hưng.\nTòa án triệu tập 50 bị cáo tới phiên tòa, trong đó có 25 bị cáo kháng cáo. Bị hại và người có quyền lợi, nghĩa vụ liên quan cũng kháng cáo.\nTrước đó, tháng 8\/2024, TAND TP Hà Nội đã tuyên phạt bị cáo Trịnh Văn Quyết 21 năm tù về các tội “Lừa đảo chiếm đoạt tài sản” và “Thao túng thị trường chứng khoán”.\nVề trách nhiệm dân sự, bị cáo Quyết bồi thường cho các nhà đầu tư là hơn 1.366 tỷ đồng, phải truy nộp số tiền 500 tỷ đồng hưởng lợi từ hành vi thao túng chứng khoán. Tổng số tiền bị cáo phải khắc phục là hơn 1.866 tỷ đồng.\nEm gái bị cáo Quyết là bị cáo Trịnh Thị Minh Huế nhận mức án 11 năm 6 tháng về tội Lừa đảo chiếm đoạt tài sản, 30 tháng tù về tội Thao túng thị trường chứng khoán, tổng hợp hình phạt 14 năm tù. Bị cáo Huế phải khắc phục 251 tỷ đồng.\nBị cáo Trịnh Thị Thúy Nga nhận mức án 6 năm tù về tội Lừa đảo chiếm đoạt tài sản, 2 năm tù tội Thao túng thị trường chứng khoán, tổng hợp hình phạt 8 năm tù. Bị cáo Nga phải truy nộp 83 tỷ đồng.\nCác bị cáo còn lại nhận mức án từ 20 tháng cho hưởng án treo đến 11 năm tù về các tội danh Lừa đảo chiếm đoạt tài sản, Thao túng thị trường chứng khoán, Cố ý công bố thông tin sai lệch hoặc che giấu thông tin trong hoạt động chứng khoán và Lợi dụng chức vụ quyền hạn trong khi thi hành công vụ.\nSau phiên tòa sơ thẩm, bị cáo Trịnh Văn Quyết có đơn kháng cáo xin giảm nhẹ mức án phạt tù và xem xét giảm trách nhiệm bồi thường dân sự.\nCác bị cáo Trịnh Thị Minh Huế và Trịnh Thị Thúy Nga kháng cáo xin giảm nhẹ trách nhiệm hình sự. 22 bị cáo khác kháng cáo toàn bộ bản án, xin giảm nhẹ hình phạt, xin hưởng án treo, xin gỡ bỏ phong tỏa về tài sản…\nNgoài ra, 135 bị hại và 384 người liên quan kháng cáo yêu cầu xác định lại số tiền bồi thường và xem xét lại một số nội dung trong bản án sơ thẩm đã tuyên.\nTheo bản án sơ thẩm, từ tháng 5\/2017 đến tháng 1\/2022, Trịnh Văn Quyết và các bị cáo khác mượn danh nghĩa của người khác để lập hồ sơ, thủ tục thành lập công ty, mở tài khoản chứng khoán, tài khoản ngân hàng.\nCác bị cáo thực hiện chuỗi hành vi thao túng thị trường đối với 5 mã cổ phiếu là AMD, HAI, GAB, FLC, ART. Sau khi giá cổ phiếu tăng, Trịnh Văn Quyết chỉ đạo bán cổ phiếu, thu lợi bất chính hơn 723 tỷ đồng.\nNgoài ra, từ năm 2014 đến tháng 9\/2016, Trịnh Văn Quyết chỉ đạo nâng khống vốn điều lệ của Công ty Faros từ 1,5 tỷ đồng lên 4.300 tỷ đồng.\nSau đó, các bị cáo tạo lập hồ sơ để niêm yết 430 triệu cổ phiếu của Công ty Faros và bán qua sàn HOSE chiếm đoạt hơn 3.600 tỷ đồng của nhà đầu tư.\nTòa án xác định có 25.853 nhà đầu tư mua cổ phiếu ROS trong đợt đầu là bị hại. Có nhà đầu tư đã bán cổ phiếu, có người có lãi, có người bị thua lỗ, có người không còn sở hữu cổ phiếu… song tòa án vẫn xác định họ là bị hại.",
+        "sector":"Chứng khoán",
+        "companies":[
+            {
+                "company_name":"Công ty Cổ phần Chứng khoán BIDV",
+                "company_stock_id":"BSI"
+            }
+        ],
+        "sentiment_label_predicted":2,
+        "sentiment_text_label":"Trung lập",
+        "sentiment_score":0,
+        "He_so":4.0,
+        "article_score":0.0
+    },
+    {
+        "id":"5",
+        "date":"2025-06-07",
+        "title":"5",
+        "link":"https:\/\/vneconomy.vn\/gia-vang-lao-doc-sau-bao-cao-viec-lam-my-spdr-gold-trust-ban-rong.htm",
+        "content":"Giá vàng thế giới giảm mạnh trong phiên giao dịch ngày thứ Sáu (6\/6), khi báo cáo việc làm tốt hơn dự báo của Mỹ khiến nhiều nhà đầu tư giảm bớt kỳ vọng về việc giảm lãi suất. Tuy nhiên, nhu cầu phòng ngừa rủi ro còn cao và sự giảm giá của đồng USD trong tuần này vẫn giúp giá kim loại quý có một tuần tăng.\nLúc đóng cửa tại thị trường New York, giá vàng giao ngay giảm 43,7 USD\/oz, tương đương giảm 1,3%, còn 3.311,7 USD\/oz - theo dữ liệu từ sàn giao dịch Kitco. Quy đổi theo tỷ giá USD bán ra tại ngân hàng Vietcombank, mức giá này tương đương khoảng 104,6 triệu đồng\/lượng, giảm 1,8 triệu đồng\/lượng so với sáng hôm qua.\nTheo website của Vietcombank, báo giá USD tại ngân hàng này chốt tuần ở mức 25.830 đồng (mua vào) và 26.220 đồng (bán ra), tăng 20 đồng ở mỗi đầu giá so với mức đóng cửa của tuần trước.\nTrên sàn COMEX, giá vàng giao sau giảm 0,8%, chốt phiên ở mức 3.346,6 USD\/oz.\nTính cả tuần, giá vàng thế giới tăng 0,6%, còn giá vàng thế giới quy đổi tăng 700.000 đồng\/lượng.\nPhiên ngày thứ Sáu, giá vàng sụt giảm khi đồng USD tăng giá mạnh sau báo cáo việc làm phi nông nghiệp đến từ Bộ Lao động Mỹ.\nBáo cáo này cho thấy khu vực phi nông nghiệp của Mỹ có 139.000 công việc mới trong tháng 5, cao hơn nhiều so với mức dự báo 125.000 công việc mới mà các nhà kinh tế đưa ra trong một cuộc khảo sát của hãng tin Dow Jones, dù thấp hơn số liệu điều chỉnh của tháng 4 là 147.000 công việc mới. Tỷ lệ thất nghiệp không thay đổi ở mức 4,2%, phù hợp với dự báo.\nSự lạc quan mà báo cáo mang lại đưa chỉ số Dollar Index đo sức mạnh của đồng USD so với một rổ gồm 6 đồng tiền chủ chốt khác tăng gần 0,5%, chốt phiên ngày thứ Sáu ở mức 99,2 điểm. Dù vậy, cả tuần, chỉ số giảm 0,13%  - theo dữ liệu từ trang MarketWatch.\nVới một thị trường lao động còn mạnh, Cục Dự trữ Liên bang Mỹ (Fed) sẽ không sớm tiếp tục cắt giảm lãi suất trong năm nay - theo nhà phân tích Edward Meir của công ty Marex.\nMôi trường lãi suất cao hơn lâu hơn và đồng USD tăng giá đều là những yếu tố không có lợi cho giá vàng - tài sản không mang lãi suất và được định giá bằng đồng bạc xanh.\nTheo dữ liệu từ thị trường lãi suất tương lai, các nhà giao dịch đang đặt cược nghiêng về khả năng Fed sẽ cắt giảm lãi suất vào tháng 9 và tiếp đó có một đợt giảm nữa vào tháng 12. Các nhà giao dịch cũng đang cắt giảm đặt cược vào khả năng Fed giảm lãi suất 3 lần trong năm nay.\nThị trường vàng đóng cửa phiên ngày thứ Sáu trước khi có tin mới về đàm phán thương mại Mỹ - Trung Quốc. Vào cuối giờ chiều, Tổng thống Donald Trump cho biết trong một bài đăng trên mạng xã hội Truth Social rằng Bộ trưởng Bộ Tài chính Mỹ Scott Bessent và hai quan chức khác của Chính phủ Mỹ sẽ gặp các đối tác Trung Quốc ở thủ đô London của Anh vào ngày thứ Hai (9\/6) để tiến hành vòng đàm phán thương mại tiếp theo.\nMột số chuyên gia nhận định thông tin này có thể gây áp lực giảm đối với giá vàng khi thị trường mở cửa trở lại vào tuần tới. Nhưng “nếu các dòng tít về thuế quan xấu đi, đó sẽ lại là yếu tố ủng hộ giá vàng”, ông Meir nói thêm.\nGiá vàng tiếp tục giằng co trong phạm vi 3.300-3.400 USD\/oz trong tuần này, nối tiếp xu hướng giằng co của tháng 5. Sự bất định trong môi trường kinh tế vĩ mô và địa chính trị toàn cầu đang giữ giá vàng ở mức cao, nhưng đồng thời, một số thông tin khả quan về kinh tế và đàm phán thương mại cũng gây áp lực giảm lên giá vàng. Giới phân tích cho rằng thị trường kim loại quý đang cần một chất xúc tác để tìm ra hướng đi rõ rệt hơn.\nQuỹ ETF vàng lớn nhất thế giới SPDR Gold Trust bán ròng 1,5 tấn vàng trong phiên ngày thứ Sáu, giảm khối lượng nắm giữ còn 934,2 tấn vàng. Dù vậy, quỹ đã mua ròng 4 tấn vàng trong tuần này, đánh dấu tuần mua ròng thứ hai liên tiếp.",
+        "sector":"Ngân hàng",
+        "companies":[
+            {
+                "company_name":"Ngân hàng TMCP Ngoại thương Việt Nam",
+                "company_stock_id":"VCB"
+            }
+        ],
+        "sentiment_label_predicted":1,
+        "sentiment_text_label":"Tiêu cực",
+        "sentiment_score":-1,
+        "He_so":6.0,
+        "article_score":-6.0
+    },
+    {
+        "id":"6",
+        "date":"2025-06-07",
+        "title":"6",
+        "link":"https:\/\/vneconomy.vn\/chung-khoan-my-va-gia-dau-dong-loat-tang-manh-nho-tin-tot-ve-viec-lam-thuong-mai.htm",
+        "content":"Thị trường chứng khoán Mỹ tăng điểm mạnh trong phiên giao dịch ngày thứ Sáu (6\/6), khi Bộ Lao động nước này công bố báo cáo việc làm tốt hơn kỳ vọng và Tổng thống Donald Trump tuyên bố đàm phán thương mại vòng hai với Trung Quốc sẽ diễn ra vào tuần tới. Đây cũng là những động lực đưa giá dầu thô chốt phiên với mức tăng gần 2%.\nLúc đóng cửa, chỉ số Dow Jones tăng 443,13 điểm, tương đương tăng 1,05%, đạt 42.752,87 điểm. Trong phiên, có lúc chỉ số tăng tới hơn 600 điểm.\nChỉ số S&P 500 tăng 1,03%, vượt ngưỡng 6.000 điểm lần đầu tiên kể từ cuối tháng 2, đóng cửa ở mức 6.000,36 điểm. Chỉ số Nasdaq tăng 1,2%, đạt 19.529,95 điểm.\nPhiên này, các chỉ số được hỗ trợ một phần bởi sự hồi phục của cổ phiếu Tesla. Hãng xe điện chứng kiến giá cổ phiếu tăng hơn 3% sau cú giảm chóng mặt 14% của phiên ngày thứ Năm trong bối cảnh CEO Elon Musk “đấu khẩu” với ông Trump trên mạng xã hội. Loạt cổ phiếu công nghệ vốn hóa lớn khác như Nvidia, Meta và Apple cũng đồng loạt đóng cửa trong trạng thái “xanh”.\nBản báo cáo được chờ đợi từ Cục Thống kê lao động thuộc Bộ Lao động Mỹ cho thấy khu vực phi nông nghiệp của Mỹ có 139.000 công việc mới trong tháng 5, cao hơn nhiều so với mức dự báo 125.000 công việc mới mà các nhà kinh tế đưa ra trong một cuộc khảo sát của hãng tin Dow Jones, dù thấp hơn số liệu điều chỉnh của tháng 4 là 147.000 công việc mới. Tỷ lệ thất nghiệp không thay đổi ở mức 4,2%.\n“Báo cáo việc làm phi nông nghiệp tốt hơn so với những gì được kỳ vọng. Điều này cho thấy thị trường việc làm vẫn đang trụ vững bất chấp một số xu hướng tăng trưởng chậm lại”, chiến lược gia trưởng Anthony Saglimbene của công ty Ameriprise nhận định với hãng tin CNBC.\nTrước đó, nhà đầu tư ở Phố Wall đã có cảm giác bất an về thị trường lao động và nền kinh tế Mỹ vì một số báo cáo khác công bố trong tuần này cho thấy sự giảm tốc mạnh hơn dự báo. Những số liệu đó làm dấy lên những câu hỏi về tác động của chính sách thuế quan đối với nền kinh tế Mỹ và đường đi lãi suất của Cục Dự trữ Liên bang (Fed) - cơ quan dự kiến sẽ có cuộc họp chính sách tiền tệ tiếp theo vào ngày 17-18\/6.\nHôm thứ Năm, Bộ Lao động Mỹ công bố số liệu đơn xin trợ cấp thất nghiệp lần đầu hàng tuần nhiều hơn dự báo. Hôm thứ Tư, báo cáo hàng tháng của công ty dịch vụ tuyển dụng ADP cho thấy số việc làm mới trong khu vực kinh tế tư nhân của Mỹ trong tháng 5 chỉ đạt 37.000 công việc, thấp hơn nhiều so với con số dự báo là 110.000 công việc. Các báo cáo nhà quản trị mua hàng (PMI) của Viện Quản lý nguồn cung (ISM) tuần này đều cho thấy hoạt động sản xuất và dịch vụ suy yếu trong tháng 5.\n“Đang có một sự bất định về hiệu ứng lạm phát của thuế quan. Thị trường đang chờ tới lúc có thể đánh giá chính xác về ảnh hưởng của hiệu ứng đó đối với tăng trưởng kinh tế và lợi nhuận của doanh nghiệp trong những quý tới. Trong lúc đó, thị trường quay trở lại mức của tháng 2”, ông Saglimbene nói thêm.\nNhà đầu tư cũng khấp khởi lạc quan về vấn đề thương mại, sau khi ông Trump công bố rằng vòng thứ hai của đàm phán thương mại giữa Mỹ và Trung Quốc sẽ diễn ra vào tuần tới ở London. Trước đó, vào ngày thứ Năm tuần này, ông Trump đã có cuộc điện đàm với Chủ tịch Trung Quốc Tập Cận Bình, mà theo hãng thông tấn Tân Hoa Xã của Trung Quốc nói là theo đề nghị của ông Trump.\nTính cả tuần này, S&P 500 tăng 1,5%, Dow Jones tăng 1,2% và Nasdaq tăng 2,2%. Với mức điểm đóng cửa tuần này, S&P 500 chỉ còn thấp hơn khoảng 3% so với mức kỷ lục thiết lập vào tháng 2.\nTrên thị trường năng lượng, giá dầu thô Brent giao sau tại London tăng 1,13 USD\/thùng, tương đương tăng 1,73%, đạt 66,47 USD\/thùng. Giá dầu WTI giao sau tại New York tăng 1,21 USD\/thùng, tương đương tăng 1,91%, đóng cửa ở mức 64,58 USD\/thùng.\nTuần này, giá cả hai loại dầu cùng tăng sau hai tuần giảm liên tiếp. Giá dầu Brent tăng 2,75% trong tuần, trong khi giá dầu WTI tăng 4,9%.\n“Tôi cho rằng báo cáo việc làm rất vừa phải. Dữ liệu trong báo cáo không quá nóng, không quá lạnh, mà vừa đủ để tăng cơ hội cho Fed hạ lãi suất”, nhà phân tích cấp cao Phil Flynn của công ty Price Futures Group nhận xét.\nNhiều nhà phân tích cho rằng việc liên minh OPEC+ giữa Tổ chức Các nước xuất khẩu dầu lửa (OPEC) và một số thành viên ngoài khối gồm Nga tiếp tục tăng sản lượng có thể dẫn tới tình trạng dư thừa nguồn cung dầu toàn cầu và gây áp lực giảm lên giá dầu. Trong tháng 7 tới, OPEC+ dự kiến tăng sản lượng thêm 411.000 thùng\/ngày, bằng với mức tăng đã áp dụng trong tháng 5 và tháng 6.\nTuy nhiên, các nhà phân tích của HSBC đưa ra một quan điểm khác. “Theo tính toán của chúng tôi, thị trường sẽ cân bằng cung - cầu trong quý 2 và quý 3 năm nay do nhu cầu tiêu thụ dầu tăng lên trong mùa hè và đạt đỉnh vào tháng 7-8, hấp thụ hết sự gia tăng nguồn cung từ OPEC+”, một báo cáo của HSBC viết.",
+        "sector":"Chứng khoán",
+        "companies":[
+            {
+                "company_name":"CTCP Chứng khoán SSI",
+                "company_stock_id":"SSI"
+            },
+            {
+                "company_name":"CTCP Chứng khoán BIDV",
+                "company_stock_id":"BSI"
+            },
+            {
+                "company_name":"CTCP Chứng khoán FPT",
+                "company_stock_id":"FTS"
+            },
+            {
+                "company_name":"CTCP Chứng khoán VNDirect",
+                "company_stock_id":"VND"
+            },
+            {
+                "company_name":"CTCP Chứng khoán VIX",
+                "company_stock_id":"VIX"
+            }
+        ],
+        "sentiment_label_predicted":0,
+        "sentiment_text_label":"Tích cực",
+        "sentiment_score":1,
+        "He_so":4.0,
+        "article_score":4.0
+    },
+    {
+        "id":"7",
+        "date":"2025-06-07",
+        "title":"7",
+        "link":"https:\/\/vneconomy.vn\/dinh-gia-co-phieu-ngan-hang-van-rat-thap-diem-danh-6-co-phieu-tiem-nang-lon.htm",
+        "content":"Chứng khoán Yuanta vừa đưa ra phân tích và đánh giá xu hướng ngành ngân hàng dựa trên 5 yếu tố trong mô hình CAMEL (Capital, Asset, Management, Earnings, và Liquidity).\nThứ nhất, về nguồn vốn (Capital) – xu hướng cắt giảm cổ tức và tái khởi động kế hoạch bán vốn. Nhiều ngân hàng đã cắt giảm cổ tức tiền mặt trong năm 2025, như MBB, VPB, và TCB. Trong đó, MBB lên kế hoạch mua lại 100 triệu cổ phiếu trong giai đoạn 2025- 2026. VPB và TCB sẽ thành lập công ty bảo hiểm nhân thọ, và VPB cũng có mục tiêu thành lập công ty quản lý quỹ, điều này sẽ làm giảm hệ số an toàn vốn của các ngân hàng.\nĐó có thể cũng là lí do các ngân hàng quyết định giảm chi trả cổ tức bằng tiền mặt để duy trì tỷ lệ an toàn vốn.\nViệc áp dụng Basel III trong thời gian tới sẽ buộc các ngân hàng phải có hệ số CAR cao hơn, ở mức 10,5% (so với mức 8,0% đối với Basel II). Hiện, hệ số CAR toàn ngành khoảng 12%, cao hơn mức yêu cầu của Basel II; tuy nhiên, phần lớn là được đóng góp chủ yếu bởi các ngân hàng tư nhân có quy mô lớn như VPB (14,7%) và TCB (15,3%). Do đó, các ngân hàng – nhất là các ngân hàng có vốn nhà nước – cần phải huy động thêm vốn để cải thiện hệ số CAR.\nVCB công bố sẽ phát hành 543,1 triệu cổ phiếu (tương đương 6,5% tổng SLCP đang lưu hành hiện tại) đến tối đa 55 nhà đầu tư, bao gồm cả nhà đầu tư chiến lược và nhà đầu tư chuyên nghiệp trong năm 2025-2026.\nChất lượng tài sản - Aset: Chất lượng tài sản suy giảm trong Q1\/2025 khi tỷ lệ nợ xấu (NPL) gia tăng và tỷ lệ bao phủ nợ xấu (LLR) sụt giảm. Dựa trên trao đổi với một số ngân hàng, nguyên nhân NPL tăng lên chủ yếu đến từ việc gia tăng các khoản nợ xấu mới thay vì đến từ các khoản nợ đã được cơ cấu theo Thông tư 02 và bão Yagi.\nYuanta kỳ vọng chất lượng tài sản sẽ cải thiện trong nửa cuối năm 2025 cùng với sự phục hồi của thị trường bất động sản. Tăng trưởng cho vay mua nhà vẫn khá khiêm tốn trong Q1\/2025. Không phải tất cả các ngân hàng đều công bố số liệu về khoản cho vay mua nhà, và chỉ có số liệu này của 5 ngân hàng, bao gồm ACB, MSB, TCB, VCB, và VPB với mức tăng trưởn  trung bình là 2,0% so với quý liền kề trong Q1\/2025. Những ngân hàng này chiếm khoảng 30% tổng tài sản ngành (gồm 28 ngân hàng).\nTuy nhiên, sự thúc đẩy mạnh mẽ của Chính phủ trong việc phát triển hạ tầng, tháo gỡ nút thắt pháp lý và việc sáp nhập tỉnh thành sẽ hỗ trợ tốt hơn cho sự phục hồi của thị trường bất động sản trong thời gian tới. Điều này sẽ giúp cải thiện chất lượng tài sản ngân hàng, từ đó giúp giảm áp lực trích lập phòng và thúc đẩy lợi nhuận cho các ngân hàng.\nHiệu quả quản lí (Management): Số hóa giúp giảm chi phí. Tỷ lệ chi phí trên thu nhập trung vị (đã điều chỉnh-loại bỏ thu nhập ròng khác) của toàn ngành (28 ngân hàng) là 39% trong Q1\/2025. Mức CIR cao có thể phản ánh sự thiếu hiệu quả trong công tác vận hành và kiểm soát chi phí, và các ngân hàng có tỷ lệ CIR trên > 50% sẽ gặp nhiều khó khăn trong việc thúc đẩy lợi nhuận.\nChỉ số CIR ngành ngân hàng tại Việt Nam cho thấy sự phân hóa rõ rệt. Tỷ lệ CIR (đã điều chỉnh) trung vị của ngành là 39%. Các ngân hàng như ACB, CTG, HDB, LPB, MBB, SHB, SSB, TCB, TPB, VCB, VIB, và VPB có tỷ lệ CIR (điều chỉnh) ở dưới mức trung vị ngành, nhờ vào lợi thế về quy mô và chuyển đổi số. Trong đó VPB là ngân hàng có hiệu quả quản lí chi phí vượt trội với CIR (điều chỉnh) chỉ ở mức 25% trong Q1\/2025.\nTrái lại, một vài ngân hàng quy mô nhỏ lại có CIR cao hơn đáng kể so với mức trung vị ngành tác động tiêu cực đến khả năng sinh lời. Nhìn chung thì CIR toàn ngành có thể giảm xuống với xu hướng chuyển đổi số mạnh mẽ của các ngân hàng.\nLợi nhuận (Earning): Nỗ lực đa dạng nguồn thu ngoài lãi. Lợi nhuận toàn ngành ngân hàng (28 niêm yết và OTC) trong Q1\/2025 được đóng góp chủ yếu bởi thu nhập đột biến từ việc thoái vốn tại công ty con của SSB – Công ty Tài chính TNHH MTV Bưu Điện (PTF) cho AEON Financial Service. Nếu loại trừ đi khoản này, PATMI toàn ngành là 63 nghìn tỷ đồng (đi ngang so quý trước \/ +9,8% so với cùng kỳ).\nVề thanh khoản: Chính phủ kiên định với mục tiêu tăng trưởng GDP đầy tham vọng là 8,0% trong năm 2025, bất chấp bất ổn thị trường như là vấn đề thuế quan của Mỹ. Do đó, Ngân hàng Nhà nước sẽ tiếp tục duy trì chính sách tiền tệ nới lỏng để hỗ trợ nền kinh tế, đặc biệt là trong bối cảnh đồng USD suy yếu và lạm phát trong nước ở mức thấp và đang trên đà giảm.\nTừ đầu năm đến 16\/05, Ngân hàng Nhà nước đã bơm 814 nghìn tỷ đồng (~31 tỷ USD) vào hệ thống tài chính thông qua kênh OMO và đã ngưng hút thanh khoản kể từ 24\/02\/2025.\nTrên thị trường chứng khoán, cổ phiếu nhóm ngân hàng đã trải qua 3 đợt giảm mạnh kể từ năm 2019. Đợt giảm đầu tiên là thời kỳ Covid năm 2020. Đợt thứ hai diễn ra vào năm 2022 sau đợt bê bối của thị trường trái phiếu doanh nghiệp, và đợt gần đây nhất là vào 2025 do ảnh hưởng của thuế quan Mỹ. Tuy nhiên, giá cổ phiếu đã phục hồi nhanh chóng sau mỗi lần bị bán tháo.\nTheo nhận định của Yuanta, các cổ phiếu nhóm ngân hàng vẫn đang được định giá thấp, hiện đang giao dịch thấp hơn 01 độ lệch chuẩn so với mức trung bình lịch sử 10 năm.\nYuanta cập nhật giá mục tiêu đối với danh mục khuyến nghị sau khi chuyển cơ sở định giá sang năm 2026. Trong đó ưu tiên lựa chọn ACB, HDB, TCB, và VCB. Kế họach bán vốn của HDB và VCB, cùng với việc IPO của TCBS đều sẽ là những chất xúc tác mạnh mẽ cho HDB, VCB, và TCB. Đồng thời, khuyến nghị mua đối với MBB và VPB.",
+        "sector":"Ngân hàng",
+        "companies":[
+            {
+                "company_name":"Ngân hàng TMCP Quân Đội",
+                "company_stock_id":"MBB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Việt Nam Thịnh Vượng",
+                "company_stock_id":"VPB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Kỹ thương Việt Nam",
+                "company_stock_id":"TCB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Ngoại thương Việt Nam",
+                "company_stock_id":"VCB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Á Châu",
+                "company_stock_id":"ACB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh",
+                "company_stock_id":"HDB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Bưu điện Liên Việt",
+                "company_stock_id":"LPB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Sài Gòn - Hà Nội",
+                "company_stock_id":"SHB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Đông Nam Á",
+                "company_stock_id":"SSB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Tiên Phong",
+                "company_stock_id":"TPB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Quốc tế Việt Nam",
+                "company_stock_id":"VIB"
+            }
+        ],
+        "sentiment_label_predicted":2,
+        "sentiment_text_label":"Trung lập",
+        "sentiment_score":0,
+        "He_so":6.0,
+        "article_score":0.0
+    },
+    {
+        "id":"8",
+        "date":"2025-06-07",
+        "title":"8",
+        "link":"https:\/\/vneconomy.vn\/khoi-ngoai-ban-rong-dot-bien-2-300-ty-trong-mot-phien.htm",
+        "content":"Bên bán đã hạ giá dữ dội trong phiên cuối tuần khiến sắc đỏ lan tràn trên bảng điện. Mặc dù VN-Index đóng cửa mới giảm 0,91% nhưng có tới hàng trăm cổ phiếu trên hai sàn bốc hơi trên 1% giá trị. Nhóm cổ phiếu blue-chips đặc biệt gây thất vọng khi trong rổ VN30 chỉ còn sót lại 5 mã xanh. Trong các cổ phiếu vốn hóa lớn nhất, HPG tăng 1,17% là đốm sáng lẻ loi không thể nào bù đắp lại được.\nVIC giảm 1,02%, VHM giảm 1,04%, TCB giảm 2,57%, FPT giảm 1,54%, GAS giảm 1,25%, MBB giảm 1,02%, VPB giảm 1,66% toàn là những cổ phiếu vốn hóa lớn nhất thị trường. Các cổ phiếu dẫn dắt suy yếu gợi nhớ lại diễn biến 3 phiên cuối tuần trước khi chính nhóm này cũng ngăn cản VN-Index đột phá qua vùng đỉnh cũ.\nBa phiên cuối tuần này cũng vậy, VN-Index giảm liên tục sau khi đã chớm vượt đỉnh lần nữa và cuối cùng còn để mất luôn mốc 1330 điểm, rơi xuống mức 1329,89 điểm. Khác biệt đáng chú ý so với tuần trước là sự suy yếu ở chỉ số đã khiến tâm lý chung cũng kém đi nhiều.\nNhóm cổ phiếu đầu cơ đã quay đầu hàng loạt. VND, CII, VIX, GEX, PDR… bị xả khối lượng lớn đẩy giao dịch lên mức hàng trăm tỷ đồng mỗi mã nhưng giá lại giảm rất mạnh. Đây đều là những cổ phiếu có nhịp tăng tốt vừa rồi và 3 phiên cuối tuần suy yếu rõ rệt.\nDiễn biến này cho thấy tâm lý ăn non lại xuất hiện và các cổ phiếu tăng nóng bị xả rất nhanh. Phản ứng như vậy cũng không có gì bất ngờ vì dù danh mục đang có lợi nhuận tốt nhưng chuyển hóa thành tiền mặt mới là kết quả cuối cùng. Trong khi VN-Index có tới 10 phiên luẩn quẩn trong vùng đỉnh 1340 điểm mà không thể bứt phá được thì nguy cơ xuất hiện giai đoạn phân phối là cao.\nNhà đầu tư nước ngoài bán ròng 2273.3 tỷ đồng, tính riêng giao dịch khớp lệnh thì họ bán ròng 519.5 tỷ đồng. Mua ròng khớp lệnh chính của nước ngoài là nhóm Bất động sản, Tài nguyên Cơ bản. Top mua ròng khớp lệnh của nước ngoài gồm các mã: HPG, VIC, GEX, DXG, DIG, NLG, HHS, HDG, NVL, HDB.\nPhía bên bán ròng khớp lệnh của nước ngoài là nhóm Dịch vụ tài chính. Top bán ròng khớp lệnh của nước ngoài gồm các mã: VCI, FPT, HAH, STB, HCM, VCB, VND, SSI, EIB.\nNhà đầu tư cá nhân mua ròng 1667.0 tỷ đồng, trong đó họ mua ròng khớp lệnh là 156.2 tỷ đồng. Tính riêng giao dịch khớp lệnh, họ mua ròng 11\/18 ngành, chủ yếu là ngành Dịch vụ tài chính. Top mua ròng của nhà đầu tư cá nhân tập trung gồm: VIC, STB, SHB, BAF, FPT, HCM, PVT, PVD, GEX, VCB.\nPhía bán ròng khớp lệnh: họ bán ròng 7\/18 ngành chủ yếu là nhóm ngành Bất động sản, Tài nguyên Cơ bản. Top bán ròng có: VHM, TCB, DIG, HPG, VCG, DBC, VRE, VPI, PLX.\nTự doanh bán ròng 142.7 tỷ đồng tính riêng khớp lệnh họ bán ròng 77.8 tỷ đồng. Tính riêng giao dịch khớp lệnh: Tự doanh mua ròng 6\/18 ngành. Nhóm mua ròng mạnh nhất là Dịch vụ tài chính, Hàng & Dịch vụ Công nghiệp. Top mua ròng khớp lệnh của tự doanh phiên ngày hôm nay gồm VIX, DCM, GEX, DBC, EIB, DXG, FUEVFVND, REE, GMD, PC1. Top bản ròng là nhóm Ngân hàng. Top cổ phiếu được bán ròng gồm VIC, VHM, VPB, FPT, MSN, VNM, ACB, CTG, HDB, MWG.\nNhà đầu tư tổ chức trong nước mua ròng 735.0 tỷ đồng, tính riêng khớp lệnh thì họ mua ròng 441.1 tỷ đồng. Tính riêng giao dịch khớp lệnh: Tổ chức trong nước bán ròng 4\/18 ngành, giá trị lớn nhất là nhóm Tài nguyên Cơ bản Top bán ròng có GEX, VIC, VIX, HPG, DXG, PVT, NVL, MSB, MBB, BAF. Giá trị mua ròng lớn nhất là nhóm Ngân hàng. Top mua ròng Có VHM, VCI, HAH, TCB, FPT, VNM, VPB, VCG, DBC, CTG.\nTự doanh bán ròng 142.7 tỷ đồng tính riêng khớp lệnh họ bán ròng 77.8 tỷ đồng. Tính riêng giao dịch khớp lệnh: Tự doanh mua ròng 6\/18 ngành. Nhóm mua ròng mạnh nhất là Dịch vụ tài chính, Hàng & Dịch vụ Công nghiệp. Top mua ròng khớp lệnh của tự doanh phiên ngày hôm nay gồm VIX, DCM, GEX, DBC, EIB, DXG, FUEVFVND, REE, GMD, PC1. Top bản ròng là nhóm Ngân hàng. Top cổ phiếu được bán ròng gồm VIC, VHM, VPB, FPT, MSN, VNM, ACB, CTG, HDB, MWG.\nNhà đầu tư tổ chức trong nước mua ròng 735.0 tỷ đồng, tính riêng khớp lệnh thì họ mua ròng 441.1 tỷ đồng. Tính riêng giao dịch khớp lệnh: Tổ chức trong nước bán ròng 4\/18 ngành, giá trị lớn nhất là nhóm Tài nguyên Cơ bản Top bán ròng có GEX, VIC, VIX, HPG, DXG, PVT, NVL, MSB, MBB, BAF. Giá trị mua ròng lớn nhất là nhóm Ngân hàng. Top mua ròng Có VHM, VCI, HAH, TCB, FPT, VNM, VPB, VCG, DBC, CTG.\nTỷ trọng phân bổ dòng tiền tăng ở Ngân hàng, Chứng khoán, Thép, Nuôi trồng nông & hải sản, Dầu khí, Phần mềm trong khi giảm ở Bất động sản, Xây dựng, Hóa chất, Thực phẩm, Kho bãi, hậu cần và bảo dưỡng, Khai khoáng, Vật liệu xây dựng & nội thất, Sản xuất ô tô.\nTính riêng khớp lệnh, tỷ trọng phân bổ dòng tiền tăng ở nhóm vốn hóa lớn VN30 và vừa VNMID, trong khi giảm ở nhóm vốn hóa nhỏ VNSML.",
+        "sector":"Ngân hàng",
+        "companies":[
+            {
+                "company_name":"Ngân hàng TMCP Kỹ thương Việt Nam",
+                "company_stock_id":"TCB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Việt Nam Thịnh Vượng",
+                "company_stock_id":"VPB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Quân Đội",
+                "company_stock_id":"MBB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Công Thương Việt Nam",
+                "company_stock_id":"CTG"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Ngoại thương Việt Nam",
+                "company_stock_id":"VCB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Á Châu",
+                "company_stock_id":"ACB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh",
+                "company_stock_id":"HDB"
+            }
+        ],
+        "sentiment_label_predicted":1,
+        "sentiment_text_label":"Tiêu cực",
+        "sentiment_score":-1,
+        "He_so":6.0,
+        "article_score":-6.0
+    },
+    {
+        "id":"9",
+        "date":"2025-06-06",
+        "title":"9",
+        "link":"https:\/\/vneconomy.vn\/dinh-gia-thi-truong-van-hap-dan-va-du-dia-tang-gia-con-nhieu.htm",
+        "content":"Chứng khoán Yuanta vừa có báo cáo cập nhật chiến lược thị trường chứng khoán tháng 6 trong đó nhấn mạnh chỉ số VN-Index đóng cửa ở mức 1,332.6 điểm, tăng 8,7% so với tháng 04\/2025. Đồng thời, thị trường đang trong giai đoạn biến động mạnh trong trung hạn cho nên xu hướng tăng vẫn sẽ tiếp diễn trong những tuần giao dịch tới và kèm theo đó là xuất hiện các nhịp điều chỉnh khi các chỉ số đang rơi vào vùng quá mua.\nĐịnh giá thị trường vẫn hấp dẫn. Mức P\/E TTM của chỉ số VN-Index ở mức 13.1x, thấp hơn mức trung bình 10 năm là 15.1x. Đồng thời, mức chênh lệch lãi suất tiết kiệm và E\/P TTM của chỉ số VN-Index ở mức -2.5% - Mức này gần bằng mức đáy tháng 11\/2022. Vì vậy, mức định giá của thị trường vẫn rất hấp dẫn và dư địa tăng giá của thị trường vẫn còn nhiều.\nHầu hết mức P\/E TTM của các nhóm ngành đều thấp hơn mức P\/E TTM trung bình 5 năm, trong nhóm ngành phi tài chính thì nhóm công nghiệp, hàng tiêu dùng và công nghệ thông tin có mức định giá hấp dẫn hơn. Trong khi đó, nhóm ngân hàng, chứng khoán, bất động sản đều có mức định giá thấp hơn lịch sử với triển vọng tăng trưởng tích cực ở ba nhóm này trong năm 2025.\nTâm lý nhà đầu tư lạc quan trung hạn và thận trọng dài hạn. Chỉ báo tâm lý trung hạn và dài hạn lần lượt ở mức 65% và 44% cho thấy nhà đầu tư đang lạc quan xu hướng trung hạn nhưng vẫn còn thận trọng xu hướng dài hạn, đặc biệt chỉ báo tâm lý đang tăng gần vùng lạc quan quá mức (tức là trên 70%) cho nên rủi ro điều chỉnh có thể gia tăng vào thời điểm đầu tháng 06\/2025.\nYuanta cho rằng thị trường có thể sẽ điều chỉnh trong ngắn và trung hạn, tức là thị trường có thể điều chỉnh vào đầu tháng 06\/2025 cho nên nhà đầu tư có thể cân nhắc chốt lời và chờ mua ở nhịp điều chỉnh. Đồng thời, nhóm cổ phiếu Midcaps và Smallcaps thường có mức tăng vượt trội và xác suất tăng cao trong tháng 06 với các nhóm ngành Dược phẩm và Y tế, Dịch vụ tiêu dùng, Tiện ích công cộng, Tài chính và Ngân hàng.\nĐàm phán thuế quan và tuần cơ cấu của hai quỹ ETF (16 – 20\/06\/2025) là các yếu tố ảnh hưởng đến diễn biến và thanh khoản của thị trường trong tháng 06\/2025.\nChứng khoán Mỹ hồi phục sau tin Tổng thống Donald Trump tạm hoãn áp thuế 50% với EU, đan xen với những đánh giá của FED về nền kinh tế. Ngoài ra, thị trường đón nhận những tin tức tích cực về kết quả kinh doanh của các công ty bán dẫn.\nCũng theo thống kê của Yuanta, dòng tiền đầu tư vào ETF tiếp tục xu hướng hút ròng, dù dòng tiền yếu hơn 2 tuần trước đó, theo Yuanta. Cụ thể, các quỹ đầu tư cổ phiếu trong nước hút ròng thêm 3,5 tỷ USD giảm 52% so với tuần trước, diễn biến tương tự với các quỹ đầu tư trái phiếu Mỹ, lượng tiền bơm ròng cũng giảm 59% so với tuần trước, lượng ghi nhận thêm khoảng 3,6 tỷ USD.\nCùng chung diễn biến đó, các quỹ đầu tư ra thị trường ngoài Mỹ cũng ghi nhận hút ròng dòng tiền, dù lượng huy động giảm đáng kể so với tuần trước. Các quỹ đầu tư ra cổ phiếu và trái phiếu ngoài Mỹ lần lượt huy động được thêm 2,3 tỷ USD giảm 44% so với tuần trước và 931 triệu USD giảm 70% so với tuần trước.\nỞ diễn biến ngược lại, các quỹ ETF đầu tư hàng hóa đảo chiều hút ròng 973 triệu USD, chấm dứt chuỗi 5 tuần liên tiếp bán ròng trước đó.\nTại châu Á, thị trường chứng khoán ghi nhận diễn biến trái chiều của khối ngoại. Trong khi thị trường chứng khoán Đài Loan đảo chiều bị rút ròng 447 triệu USD, thì thị trường chứng khoán Ấn Độ lại đảo chiều hút ròng trở lại 636 triệu USD – dẫn đầu chiều hút ròng tuần qua.\nTại Đông Nam Á, các quỹ ETF đầu tư khu vực này tiếp tục ghi nhận xu hướng hút ròng với 7,2 triệu USD huy động thêm, giảm 53,8% so với tuần trước. Dòng tiền vào ròng mạnh ở các quỹ đầu tư vào thị trường Sigapore với 28,4 triệu USD được ghi nhận.\nỞ chiều ngược lại, các quỹ ETF đầu tư vào Việt Nam rút ròng 13,7 triệu USD, dẫn đầu chiều rút ròng. Trong đó, dòng tiền rút ròng ghi nhận ở các quỹ như Fubon FTSE (-3,9 triệu USD), DB FTSE (-2,3 triệu USD), E1FVN30 (-3,5 triệu USD).",
+        "sector":"Ngân hàng",
+        "companies":[
+            {
+                "company_name":"Ngân hàng Thương mại Cổ phần Á Châu",
+                "company_stock_id":"ACB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Đầu tư và Phát triển Việt Nam",
+                "company_stock_id":"BID"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Công Thương Việt Nam",
+                "company_stock_id":"CTG"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Xuất nhập khẩu Việt Nam",
+                "company_stock_id":"EIB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Quân Đội",
+                "company_stock_id":"MBB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Hàng Hải Việt Nam",
+                "company_stock_id":"MSB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Đông Nam Á",
+                "company_stock_id":"SSB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Ngoại thương Việt Nam",
+                "company_stock_id":"VCB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Việt Nam Thịnh Vượng",
+                "company_stock_id":"VPB"
+            }
+        ],
+        "sentiment_label_predicted":0,
+        "sentiment_text_label":"Tích cực",
+        "sentiment_score":1,
+        "He_so":6.0,
+        "article_score":6.0
+    },
+    {
+        "id":"10",
+        "date":"2025-06-06",
+        "title":"10",
+        "link":"https:\/\/vneconomy.vn\/co-phieu-tesla-keo-tut-chung-khoan-my-gia-dau-tang-sau-dien-dam-my-trung.htm",
+        "content":"Giá dầu thô tăng vì cuộc điện đàm giữa Tổng thống Mỹ Donald Trump và Chủ tịch Trung Quốc Tập Cận Bình làm dấy lên hy vọng mới về đàm phán thương mại giữa hai nước.\nLúc đóng cửa, chỉ số S&P 500 giảm 0,53%, còn 5.939,3 điểm. Chỉ số Nasdaq giảm 0,83%, còn 19.298,45 điểm. Chỉ số Dow Jones giảm 108 điểm, tương đương giảm 0,25%, còn 42.319,74 điểm.\nTesla là cổ phiếu gây áp lực giảm lớn nhất lên các chỉ số trong phiên này, chốt phiên với mức giảm hơn 14% và không giữ được mức vốn hóa thị trường trên 1 nghìn tỷ USD. Cổ phiếu hãng xe điện hàng đầu thế giới  lao dốc sau khi ông Trump nói rằng ông Trump nói ông “rất thất vọng” với CEO Elon Musk của Tesla. Phản ứng với tuyên bố này của ông chủ Nhà Trắng, ông Musk viết trong một bài đăng trên mạng xã hội X rằng “nếu không có tôi, ông Trump đã thua cử”. Cuộc tranh cãi càng thêm nóng sau khi ông Trump gọi ông Musk là “điên rồ” và phát tín hiệu có thể cắt các hợp đồng giữa Chính phủ Mỹ với các công ty của ông Musk.\nThị trường cho thấy sự thiếu ổn định ngay từ đầu phiên, sau khi có tin ông Trump và ông Tập đã có một cuộc điện đàm về vấn đề thương mại. Trong một bài đăng trên mạng xã hội Truth Social, ông Trump nói đó là một “cuộc điện đàm rất tốt đẹp”, nhưng không nói rõ về kết quả của cuộc nói chuyện. Ông cho biết các nhà đàm phán thương mại cấp cao của hai nước sẽ sớm có cuộc gặp tiếp theo.\nSau khi Mỹ và Trung Quốc đạt thỏa thuận hoà hoãn thuế quan ở Geneva vào tháng 5 vừa qua, chứng khoán Mỹ đã phục hồi mạnh vì nhà đầu tư kỳ vọng rằng giai đoạn tồi tệ nhất của cuộc chiến thương mại giữa hai nền kinh tế lớn nhất thế giới đã qua. Cả tháng 5, S&P 500 tăng hơn 6%, đánh dấu tháng tăng mạnh nhất của thước đo rộng nhất của chứng khoán Mỹ kể từ tháng 11\/2023. Nhưng gần đây, khi căng thẳng Mỹ - Trung có dấu hiệu nóng trở lại, nhà đầu tư cảm thấy lo lắng và thị trường cũng chững lại.\n“Việc hai nhà lãnh đạo điện đàm là thông tin tích cực, nhưng tôi cho rằng nếu Mỹ có đạt thỏa thuận thương mại với Trung Quốc thì thỏa thuận đó sẽ có sau thỏa thuận với Ấn Độ, với Nhật Bản, và các quốc gia khác. Cơ hội để hai bên nhanh chóng đi đến một giải pháp nào đó là cực kỳ thấp”, CEO Jay Hatfield của công ty Infrastructure Capital Advisors nhận định với hãng tin CNBC.\nThị trường việc làm Mỹ đã bắt đầu có những dấu hiệu suy yếu sau một thời gian dài duy trì trạng thái mạnh mẽ. Theo báo cáo hàng tuần được Bộ Lao động Mỹ công bố vào ngày thứ Năm, nước này có 247.000 người xin trợ cấp thất nghiệp lần đầu trong tuần trước, tăng 8.000 người so với tuần trước đó và cao hơn mức dự báo 236.000 người mà các nhà phân tích đưa ra trong một cuộc khảo sát của hãng tin Dow Jones.\nHôm thứ Tư, báo cáo hàng tháng của công ty dịch vụ tuyển dụng ADP cho thấy khu vực tư nhân của Mỹ chỉ có thêm 37.000 công việc mới trong tháng 5, thấp hơn nhiều so với con số dự báo 110.000 công việc mới. Báo cáo này đã khiến nhà dầu tư lo lắng về sự suy yếu của thị trường việc làm và tác động đến nền kinh tế.\nCác báo cáo việc làm nói trên càng làm gia tăng tầm quan trọng của báo cáo việc làm phi nông nghiệp mà Bộ Lao động Mỹ dự kiến công bố vào ngày thứ Sáu. Các nhà kinh tế được Dow Jones khảo sát dự báo sẽ có khoảng 125.000 công việc mới trong tháng 5, ít hơn 52.000 công việc so với tháng 4.\nTrên thị trường năng lượng, giá dầu thô Brent giao sau tại London tăng 0,48 USD\/thùng, tương đương tăng 0,74%, đóng cửa ở mức 65,34 USD\/thùng. Giá dầu WTI giao sau tại New York tăng 0,52 USD\/thùng, tương đương tăng 0,83%, chốt ở 63,37 USD\/thùng.\n“Nếu chiến tranh thương mại xuống thang, kỳ vọng về nhu cầu tiêu thụ dầu sẽ tăng lên đối với cả Mỹ và Trung Quốc”, nhà phân tích cấp cao Phil Flynn của công ty Price Futures Group nói với hãng tin CNBC, nhấn mạnh rằng động lực cho giá dầu tăng phiên này là cuộc điện đàm giữa ông Trump và ông Tập.\nTrước phiên tăng này, giá dầu đã giảm 1% trong phiên ngày thứ Năm do mối lo của nhà đầu tư rằng chiến tranh thương mại có thể gây suy giảm tăng trưởng kinh tế và nhu cầu tiêu thụ dầu.\nCăng thẳng địa chính trị tiếp diễn và cháy rừng ở Canada gây đe dọa hoạt động sản xuất dầu đang là những yếu tố hỗ trợ giá dầu, nhưng khả năng thị trường dầu dư cung trong nửa sau của năm nay do OPEC+ tăng sản lượng đang gây áp lực giảm lên giá năng lượng này - theo nhà phân tích Tamas Varga của công ty PVM Oil.\nOPEC+ là liên minh giữa Tổ chức Các nước xuất khẩu dầu lửa (OPEC) và một số thành viên ngoài khối gồm Nga. Tuần trước, OPEC+ quyết định tăng sản lượng thêm 411.000 thùng\/ngày trong tháng 7.\nNhà phân tích Giovanni Staunovo của ngân hàng UBS nói rằng báo cáo việc làm phi nông nghiệp ngày thứ Sáu của Mỹ có thể tác động không nhỏ tới diễn biến giá dầu, vì tình hình thị trường việc làm có thể ảnh hưởng tới quyết định lãi suất thời gian tới của Cục Dự trữ Liên bang Mỹ (Fed).",
+        "sector":"Dầu khí",
+        "companies":[
+            {
+                "company_name":"Tổng Công ty Khí Việt Nam - CTCP",
+                "company_stock_id":"GAS"
+            },
+            {
+                "company_name":"Tập đoàn Xăng dầu Việt Nam",
+                "company_stock_id":"PLX"
+            },
+            {
+                "company_name":"Tổng CTCP Khoan và Dịch vụ Khoan Dầu khí",
+                "company_stock_id":"PVD"
+            },
+            {
+                "company_name":"Tổng CTCP Vận tải Dầu khí",
+                "company_stock_id":"PVT"
+            }
+        ],
+        "sentiment_label_predicted":1,
+        "sentiment_text_label":"Tiêu cực",
+        "sentiment_score":-1,
+        "He_so":3.0,
+        "article_score":-3.0
+    },
+    {
+        "id":"11",
+        "date":"2025-06-06",
+        "title":"11",
+        "link":"https:\/\/vneconomy.vn\/ong-musk-tranh-cai-voi-ong-trump-von-hoa-tesla-boc-hoi-152-ty-usd-trong-mot-phien.htm",
+        "content":"Những diễn biến này là bước leo thang mới nhất trong cuộc “đấu khẩu” giữa ông Musk và ông Trump về dự luật ngân sách mà ông Trump đang thúc đẩy trong Quốc hội Mỹ.\nCú giảm trên khiến giá trị vốn hóa thị trường của Tesla giảm 152 tỷ USD, đánh dấu phiên mất mát vốn hóa mạnh chưa từng thấy của hãng xe điện này. Mức giảm như vậy khiến Tesla không còn giữ được mốc vốn hóa 1 nghìn tỷ USD, chốt phiên ở mức 916 tỷ USD.\nPhát biểu tại Phòng Bầu dục ngày 5\/6, ông Trump nói ông Musk đã bực bội khi tín dụng xe điện không được đưa vào dự luật giảm thuế và tăng chi tiêu mà Thượng viện Mỹ đang thảo luận sau khi Hạ viện thông qua. “Elon và tôi có một mối quan hệ tuyệt vời, nhưng tôi không biết chúng tôi có còn được như vậy hay không. Tôi lấy làm ngạc nhiên”, ông nói.\nĐáp trả những phát biểu này của ông Trump, ông Musk viết trên mạng xã hội X: “Nếu không có tôi, ông Trump đã thua cử”.\nSau đó, trong một bài đăng trên mạng xã hội Truth Social, ông Trump nói ông Musk đã “mất kiên nhẫn” và trở nên “điên rồ”.\nNhững ngày gần đây, ông Musk - người giàu nhất thế giới - đã liên tục chỉ trích dự luật ngân sách của ông Trump, cho thấy một sự thay đổi lớn trong quan điểm của ông với chính quyền ông Trump. Ông Musk cũng đã rời khỏi bộ máy của Nhà Trắng, nơi ông đã giữ vai trò đứng đầu Bộ Hiệu quả Chính phủ (DOGE) trong khoảng 5 tháng.\nTrong tháng 5 vừa qua, cổ phiếu Tesla tăng 22% bất chấp số liệu doanh số ảm đạm. Nhà đầu tư lạc quan khi ông Musk cho biết ông sắp rút lui khỏi chính trường và tập trung điều hành công ty.\nNhưng tuần này, giá cổ phiếu Tesla đã “bốc hơi” 18% khi ông Musk liên tục phê phán dự luật ngân sách. Tính từ đầu năm, cổ phiếu Tesla đã giảm gần 30% và đang thấp hơn nhiều so với mức kỷ lục 488,54 USD\/cổ phiếu thiết lập vào ngày 18\/12 năm ngoái. Phiên ngày 5\/6, cổ phiếu này đóng cửa ở mức 284,7 USD\/cổ phiếu.\nÔng Musk đã tỏ ý không đồng tình với dự luật chi tiêu của ông Trump trong những ngày cuối còn làm việc ở Nhà Trắng. Sau khi rời đi, ông càng thể hiện sự phản đối mạnh mẽ hơn với dự luật bao gồm nội dung gia hạn chương trình cắt giảm thuế năm 2017 này.\n“Elon có một đặc điểm là khi thích nói là nói hết. Ông ấy không dè chừng gì cả, và ông ấy đang có vẻ rất bất mãn”, ông Walter Isaacson - tác giả một cuốn tiểu sử Elon Musk - nói với hãng tin CNBC.\nTrang NBC News nói rằng ông Musk đã tìm cách thuyết phục ông Trump và các thành viên Cộng hòa khác của chính quyền thay đổi nội dung trong dự luật ngân sách về cắt giảm tín dụng ô tô điện và thuế năng lượng mặt trời đối với hộ gia đình, nhưng không được chấp nhận. Việc duy trì những chính sách tín dụng này sẽ có lợi cho Tesla. Ngoài ra, dự luật cũng áp một khoản phí hàng năm 250 USD lên người dùng ô tô điện.\nNgoài những bất lợi từ dự luật ngân sách của ông Trump, Tesla còn đang đối mặt với những vấn đề mang tính căn bản hơn, bao gồm doanh số bán xe điện sụt giảm mạnh ở những thị trường chính như châu Âu và uy tín thương hiệu suy giảm ở thị trường phương Tây nói chung. Hãng cũng đang được đầu sức ép phải triển khai ở Austin, Texas ngay trong tháng này dịch vụ taxi không người lái đã bị trì hoãn từ lâu.\nÔng Musk đã nói rằng Tesla sẽ thử nghiệm dịch vụ taxi không người lái ở Austin, nhưng đối thủ Waymo đã triển khai thương mại dịch vụ tương tự thông qua hợp tác với Uber.\nCũng theo ông Isaacson, ông Musk còn bất mãn với việc một số thành viên trong chính quyền ông Trump phản đối việc đề cử ông Jared Isaacman - một người thân cận với ông Musk - vào vị trí người đứng đầu Cơ quan Hàng không vũ trụ Mỹ (NASA). Việc đề cử ông Isaacman cho cương vị này đã bị rút lại vào cuối tuần vừa rồi.\nÔng Isaacman là người đã điều khiển hai chuyến bay tư nhân vào vũ trụ thông qua công ty SpaceX của ông Musk vào năm 2021 và 2024, đưa phi hành đoàn bay quay Trái Đất. Công ty công nghệ thanh toán Shift4 của ông cho biết ở thời điểm ngày 30\/6\/2021, công ty này đã đầu tư 27,5 triệu USD vào SpaceX.",
+        "sector":"Công nghệ",
+        "companies":[
+            {
+                "company_name":"Công ty Cổ phần FPT",
+                "company_stock_id":"FPT"
+            }
+        ],
+        "sentiment_label_predicted":1,
+        "sentiment_text_label":"Tiêu cực",
+        "sentiment_score":-1,
+        "He_so":3.0,
+        "article_score":-3.0
+    },
+    {
+        "id":"12",
+        "date":"2025-06-06",
+        "title":"12",
+        "link":"https:\/\/vneconomy.vn\/vang-sut-gia-vi-tin-my-trung-sap-noi-lai-dam-phan-thuong-mai.htm",
+        "content":"Giá vàng thế giới giảm khá mạnh trong phiên giao dịch ngày thứ Năm (5\/6), sau khi có tin Tổng thống Mỹ Donald Trump và Chủ tịch Trung Quốc Tập Cận Bình nhất trí sớm tiến hành vòng đàm phán thương mại tiếp theo giữa hai nước. Tâm lý của nhà đầu tư cũng có phần trở nên thận trọng hơn trước khi Mỹ công bố báo cáo việc làm phi nông nghiệp tháng 5 vào ngày thứ Sáu.\nLúc 9h15 sáng nay (6\/6), giá vàng giao ngay tại thị trường châu Á giao dịch ở mức 3.364,82 USD\/oz, tăng 11,42 USD\/oz so với đóng cửa phiên đêm qua tại Mỹ, tương đương tăng 0,34% - theo dữ liệu từ sàn giao dịch Kitco. Quy đổi theo tỷ giá USD bán ra tại ngân hàng Vietcombank, mức giá này tương đương gần 106,4 triệu đồng\/lượng, giảm 700.000 đồng\/lượng so với sáng hôm qua.\nCùng thời điểm trên, website của Vietcombank báo giá USD ở mức 25.851 đồng (mua vào) và 26.241 đồng (bán ra), giảm 13 đồng ở mỗi đầu giá so với sáng hôm qua.\nPhiên ngày thứ Năm tại New York, giá vàng giao ngay đóng cửa ở mức 3.353,4 USD\/oz, giảm 21,3 USD\/oz so với mức chốt của phiên trước, tương đương giảm hơn 0,6%.\nGiá vàng tiếp tục giằng co trong tuần này, khởi đầu tuần mới ở vùng giá 3.300 USD\/oz, sau đó có lúc tiến gần tới mốc 3.400 USD\/oz rồi lại lại quay đầu sụt giảm. Nhu cầu phòng ngừa rủi ro của nhà đầu tư còn lớn do sự bất định liên quan tới chính sách thuế quan của Mỹ, nhưng các tin tức cụ thể hàng ngày tiếp tục đẩy giá vàng trồi sụt. Giới phân tích cho rằng giá vàng đang cần một chất xúc tác cụ thể để có một hướng đi rõ ràng trong ngắn hạn.\nTrong một bài đăng trên mạng xã hội Truth Social sau cuộc điện đàm ngày 5\/6 với ông Tập, ông Trump nói đó là một “cuộc điện đàm rất tốt đẹp”, nhưng không nói rõ về kết quả của cuộc nói chuyện. Ông cho biết các nhà đàm phán thương mại cấp cao của hai nước sẽ sớm có cuộc gặp tiếp theo. Về phía Trung Quốc, một thông cáo về cuộc gặp này cho biết ông Tập đã đề nghị ông Trump giảm bớt các biện pháp thương mại và tránh có những động thái mang tính đe dọa về vấn đề Đài Loan.\nTheo chiến lược gia Daniel Ghali của công ty TD Securities, cuộc điện đàm giữa hai nhà lãnh đạo của Mỹ và Trung Quốc đã làm giảm rủi ro leo thang căng thẳng giữa hai nước trong ngắn hạn, do đó làm suy giảm động lực mua vàng của nhà đầu tư.\nChiến tranh thương mại Mỹ - Trung là một nguyên nhân quan trọng đưa giá vàng tăng giá mạnh trong năm nay. Từ đầu năm, giá kim loại quý này đã tăng khoảng 28%. Giá vàng lập kỷ lục mọi thời đại trên 3.500 USD\/oz trong tháng 4, không lâu sau khi ông Trump công bố kế hoạch thuế quan đối ứng gây chấn động.\nMột báo cáo của công ty Metal Focus nhận định các ngân hàng trung ương trên thế giới sẽ mua ròng 1.000 tấn vàng trong năm 2025, đánh dấu năm mua ròng thứ tư liên tục trong xu hướng đa dạng hóa dự trữ ngoại hối khỏi các tài sản USD. Nhu cầu mua ròng vàng của khối này cũng là một yếu tố không thể không nhắc đến trong xu hướng tăng giá của vàng từ năm 2024 tới nay.\nĐồng USD giảm giá nhẹ trong phiên ngày thứ Năm, với chỉ số Dollar Index chốt phiên ở mức 98,74 điểm, từ mức 98,79 điểm của phiên trước.\nPhiên ngày thứ Sáu, tâm điểm chú ý của giới đầu tư sẽ là báo cáo việc làm phi nông nghiệp tháng 5 của Mỹ do Bộ Lao động nước này công bố. Các nhà kinh tế được Dow Jones khảo sát dự báo rằng báo cáo sẽ cho thấy có khoảng 125.000 công việc mới trong tháng 5, ít hơn 52.000 công việc so với tháng 4.\nTình hình thị trường việc làm có thể ảnh hưởng tới quyết định lãi suất thời gian tới của Cục Dự trữ Liên bang Mỹ (Fed). Hôm thứ Tư tuần này, ông Trump lại kêu gọi Chủ tịch Fed Jerome Powell cắt giảm lãi suất.\n“Tôi nghĩ thị trường việc làm Mỹ yếu đi sẽ làm gia tăng đặt cược vào việc Fed sớm cắt giảm lãi suất, và điều đó sẽ có lợi cho giá vàng”, nhà phân tích cấp cao Ricardo Evangelista của công ty ActivTrades nhận định với hãng tin Reuters.",
+        "sector":"Ngân hàng",
+        "companies":[
+            {
+                "company_name":"Ngân hàng TMCP Ngoại thương Việt Nam",
+                "company_stock_id":"VCB"
+            }
+        ],
+        "sentiment_label_predicted":2,
+        "sentiment_text_label":"Trung lập",
+        "sentiment_score":0,
+        "He_so":6.0,
+        "article_score":0.0
+    },
+    {
+        "id":"13",
+        "date":"2025-06-06",
+        "title":"13",
+        "link":"https:\/\/vneconomy.vn\/tranh-xuong-tau-thi-truong-lao-doc-vn-index-thung-moc-1330-diem.htm",
+        "content":"Áp lực bán ra đã tăng vọt trong phiên chiều nay, đẩy giá rất nhiều cổ phiếu vừa và nhỏ “chìm” sâu. Sàn HoSE buổi sáng có 107 mã giảm quá 1% thì kết phiên tới 160 mã. Mức giảm của VN-Index không phản ánh đúng thiệt hại ở cổ phiếu.\nThanh khoản khớp lệnh sàn HoSE chiều nay cũng tăng 18,1% so với phiên sáng đạt 11 ngàn tỷ đồng, mức cao nhất trong vòng 3 phiên trở lại đây. Độ rộng tuy không thay đổi nhiều với 74 mã tăng\/231 mã giảm (phiên sáng là 71 mã tăng\/215 mã giảm), nhưng mặt bằng giá thì thấp hơn đáng kể.\nTrong 160 cổ phiếu giảm quá 1% giá trị lúc đóng cửa, có 77 mã giảm từ 2% trở lên. Sáng nay thị trường cũng yếu, nhưng số giảm quá 2% cũng mới là 30 mã. Rổ VN30 cũng rất tệ, buổi sáng mới có 5 mã giảm hơn 1%, cuối phiên tới 16 mã.\nDiễn biến chóng mặt nhất trong nhóm blue-chips là GVR khi từ mức tham chiếu cuối giờ sáng bổ nhào giảm 2,91%. Thanh khoản mã này cũng không có gì nhiều, tổng khớp cả phiên đạt 83,6 tỷ đồng và riêng chiều nay là 51,6 tỷ. Rõ ràng áp lực bán cũng không lớn, nhưng hạ giá liên tục và việc thiếu cầu nghiêm trọng dẫn đến biên độ giá rơi rất mạnh. TCB là một khía cạnh khác, áp lực xả thực sự lớn khi xuất hiện giao dịch tới 472,6 tỷ đồng trong phiên chiều và giá giảm thêm 1,3% nữa so với phiên sáng, đóng cửa mất tới 2,57% so với tham chiếu. Thanh khoản của TCB là lớn nhất rổ VN30 trong buổi chiều.\nThống kê cho thấy có tới 24\/30 cổ phiếu trong rổ blue-chips tụt giá so với phiên sáng. Thậm chí có những mã mạnh như STB cũng chịu áp lực. Cổ phiếu này chốt phiên sáng là một trong những mã khỏe nhất, tăng 2,3%, nhưng đóng cửa chỉ còn tăng 0,97%. Sức ép từ phía bán đẩy giá thoái lui liên tục khiến rất nhiều mã ghi nhận biên độ trượt giá rất rộng trong ngày.\nNhóm blue-chips một lần nữa cho thấy đang là lực cản chính ngăn VN-Index đột phá. Ba phiên quay đầu giảm cuối tuần này khá giống với hai phiên cuối tuần trước, khi VN-Index đã chớm vượt đỉnh rồi lại thất bại. Duy có điều hôm nay tình hình xấu hơn nhiều so với phiên cuối tuần trước khi số lượng cổ phiếu rơi mạnh nhiều hơn hẳn.\nÁp lực cực mạnh xuất hiện ở loạt cổ phiếu tầm trung là VND, CII, VIX, GEX, VCI, HCM, PDR, VCG đều khớp trên 200 tỷ đồng thanh khoản. VND lao dốc tới 3,8%, CII giảm 4,5%, VIX giảm 2,17%, VCI giảm 2,58%, HCM giảm 2,11%, PDR giảm 2,47% đều gây thiệt hại rất lớn. Nhóm thanh khoản thấp thậm chí còn “nát” hơn như TDH, SBG, MHC, EVG, TV2, CCL, DLG, CSM giảm từ 4% trở lên. Các mã đầu cơ nhỏ vốn có lợi thế biên độ tăng mạnh chiều lên thì cũng thường đem lại hậu quả tương xứng ở chiều giảm.\nTính chung nhóm 160 giảm quá 1% trong VN-Index hôm nay chiếm 59,3% tổng giá trị khớp lệnh sàn HoSE. Thanh khoản sàn này tăng 17,3% so với hôm qua nhưng rõ ràng là dưới ảnh hưởng của lực bán hạ giá chủ động.\nỞ phía tăng, 74 cổ phiếu vẫn trụ được trên vùng giá xanh. HPG dĩ nhiên ấn tượng nhất dù chiều nay đã suy yếu một chút, giảm 0,76% so với giá chốt buổi sáng. HPG có đỉnh từ lúc 11h, tăng 2,91% so với tham chiếu nhưng đóng cửa chỉ còn +1,17%. Thanh khoản HPG dẫn đầu thị trường với 1.106,8 tỷ đồng và chiều nay giao dịch chỉ bằng 44% phiên sáng nhưng giá lại kém đi. Điều này chỉ có thể là do dòng tiền vào đỡ quá tệ.\nLoạt cổ phiếu còn có dòng tiền hỗ trợ duy trì giá khá tốt là DIG tăng 1,12% thanh khoản 441,2 tỷ đồng; DBC tăng 1,36% với 382,9 tỷ; HAH tăng 3,26% với 235,1 tỷ; HAG tăng 1,15% với 175,7 tỷ; HHS tăng 3,06% với 120,8 tỷ; NLG tăng 1,22% với 105,1 tỷ. DSX, KHG, DPG, VSC là các mã khác cũng khá sôi động.\nVề tổng thể áp lực bán dâng cao trong phiên cuối tuần vẫn là phản ánh tâm lý chốt lời của hoạt động đầu cơ lướt sóng. Nếu thị trường không đủ sức bùng nổ thì rủi ro quay đầu là cao, khi đó lợi nhuận đang có ở các mã vừa và nhỏ cũng sẽ bị ảnh hưởng.",
+        "sector":"Ngân hàng",
+        "companies":[
+            {
+                "company_name":"CTCP Bất động sản Phát Đạt",
+                "company_stock_id":"PDR"
+            },
+            {
+                "company_name":"Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần",
+                "company_stock_id":"GVR"
+            },
+            {
+                "company_name":"CTCP Đầu tư và Kinh doanh nhà Khang Điền",
+                "company_stock_id":"NLG"
+            },
+            {
+                "company_name":"CTCP Chứng khoán VNDirect",
+                "company_stock_id":"VND"
+            },
+            {
+                "company_name":"CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh",
+                "company_stock_id":"CII"
+            },
+            {
+                "company_name":"CTCP Hoàng Anh Gia Lai",
+                "company_stock_id":"HAG"
+            },
+            {
+                "company_name":"CTCP Chứng khoán VIX",
+                "company_stock_id":"VIX"
+            },
+            {
+                "company_name":"CTCP Chứng khoán Vietcap",
+                "company_stock_id":"VCI"
+            },
+            {
+                "company_name":"CTCP Chứng khoán Thành phố Hồ Chí Minh",
+                "company_stock_id":"HCM"
+            },
+            {
+                "company_name":"Tổng Công ty Phát triển Đô thị Kinh Bắc - Công ty cổ phần",
+                "company_stock_id":"KBC"
+            },
+            {
+                "company_name":"CTCP Phát triển Nhà Bà Rịa - Vũng Tàu",
+                "company_stock_id":"HDC"
+            },
+            {
+                "company_name":"Tập đoàn Xăng dầu Việt Nam",
+                "company_stock_id":"PLX"
+            },
+            {
+                "company_name":"CTCP Thép Nam Kim",
+                "company_stock_id":"NKG"
+            },
+            {
+                "company_name":"Tập đoàn FPT",
+                "company_stock_id":"FPT"
+            },
+            {
+                "company_name":"Công ty cổ phần Tập đoàn Hòa Phát",
+                "company_stock_id":"HPG"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Kỹ thương Việt Nam",
+                "company_stock_id":"TCB"
+            },
+            {
+                "company_name":"Công ty cổ phần Đầu tư Thế giới Di động",
+                "company_stock_id":"MWG"
+            }
+        ],
+        "sentiment_label_predicted":1,
+        "sentiment_text_label":"Tiêu cực",
+        "sentiment_score":-1,
+        "He_so":6.0,
+        "article_score":-6.0
+    },
+    {
+        "id":"14",
+        "date":"2025-06-06",
+        "title":"14",
+        "link":"https:\/\/vneconomy.vn\/ap-luc-ban-tiep-tuc-de-nang-co-phieu-giam-gap-3-lan-tang-vn-index-tuot-moc-1340-diem.htm",
+        "content":"Phiên sụt giảm thứ 3 liên tiếp lại có tín hiệu tăng thanh khoản đi kèm với độ rộng rất tiêu cực cho thấy bên bán đang làm chủ thị trường. Hầu hết các blue-chips đang kiệt sức, trong khi nhóm cổ phiếu đầu cơ vừa và nhỏ cũng bị xả mạnh.\nVN-Index trọn phiên sáng nay giao dịch trong vùng giá đỏ và kết phiên để mất 5,59 điểm tương đương -0,42% so với tham chiếu, dừng tại mức 1336,5 điểm. Như vậy đây là tuần thứ 2 chỉ số này chớm vượt lên đỉnh cao mới nhưng rồi lại thoái lui. Đó là tín hiệu không thuận lợi về mặt kỹ thuật, khi càng nhiều nhịp “rướn” thất bại, nguy cơ thị trường đang bị xả càng cao.\nThực ra các phiên chớm vượt đỉnh 1340 điểm cũng không xuất hiện trạng thái bùng nổ giao dịch. Hầu hết các phiên này đều vượt đỉnh mang tính kỹ thuật do một vài cổ phiếu vốn hóa lớn bất ngờ tăng mạnh, hơn là có sự cộng hưởng trên diện rộng. Khi các cổ phiếu lớn này kiệt sức, đà tăng dứt khoát dĩ nhiên không thể xuất hiện.\nSáng nay loạt cổ phiếu lớn nhất tiếp tục yếu. Trong 10 mã vốn hóa hàng đầu của VN-Index thì duy nhất HPG là xanh, tăng 1,94%. Cổ phiếu này sau nhịp trượt giảm tháng 4 cũng đã “teo” vốn hóa đáng kể, chỉ còn đứng thứ 8 nên dù tăng mạnh cũng chỉ đỡ khoảng 0,7 điểm cho chỉ số. VCB, BID, CTG, FPT, GAS cũng giảm. Đặc biệt VHM rơi tới 2,08%, TCB giảm 1,29%. VHM có phiên thứ 5 lùi khỏi đỉnh cao 3 năm trong khi TCB có phiên điều chỉnh thứ 3 liên tiếp sau khi lập đỉnh cao lịch sử hồi đầu tuần.\nVN30-Index chốt phiên sáng cũng giảm 0,44% với 5 mã tăng\/21 mã giảm. Điểm khá may mắn là ngoài VHM và TCB, các mã giảm mạnh còn lại chỉ có VRE, VJC và MWG vốn hóa đều không lớn. Phía tăng ngoài HPG có PLX tăng 4,16%, STB tăng 2,3%, BCM tăng 1,15% cũng đều có vốn hóa hạn chế.\nĐộ rộng toàn sàn HoSE sáng nay rất kém, ngay cả khi VN-Index hồi lại cao nhất lúc 9h50 chỉ còn giảm khoảng 0,3 điểm so với tham chiếu thì độ rộng cũng chỉ là 105 mã tăng\/137 mã giảm. Kết phiên sáng sàn HoSE còn 71 mã tăng\/215 mã giảm, xác nhận đà giảm giá xuất hiện trên diện rất rộng.\nNhóm cổ phiếu vừa và nhỏ được đầu cơ mạnh mấy ngày trước bắt đầu suy yếu nhiều hơn. Trong 71 mã còn xanh cũng có 35 mã tăng hơn 1% nhưng giao dịch rất hạn chế. Chưa đến 20 cổ phiếu trong nhóm này đạt thanh khoản từ 10 tỷ đồng trở lên. Số ít các giao dịch đáng kể là PVD tăng 2,06% khớp 194,5 tỷ; HAG tăng 2,31% với 123,8 tỷ; NKG tăng 1,49% với 110,3 tỷ; HSG tăng 1,22% với 108,5 tỷ; HDG tăng 1,11% với 88,5 tỷ; BSR tăng 1,11% với 55,2 tỷ; TCH tăng 1,01% với 54 tỷ; HHS tăng 1,02% với 50,8 tỷ. Nhóm thanh khoản thấp hơn có NLG, DXS, GEE, CTI cũng khá mạnh.\nTính chung thanh khoản nhóm tăng trên 1% ngoại trừ HPG và STB chỉ chiếm khoảng 11,6% tổng giá trị khớp lệnh sàn HoSE. Sự co cụm này một phần phản ánh tâm lý phân hóa trong quan điểm đầu cơ ngắn hạn, nhiều người muốn chốt lời hơn là mua thêm. Mặt khác, dòng tiền cũng có vẻ hạn chế dần và chỉ những cổ phiếu còn mạnh mới có thể trụ vững. Dù vậy ngay cả ở nhóm mạnh nhất này, tất cả đều đã bị bên bán ép giá xuống với mức độ khác nhau. Chẳng hạn HAG đã phải trả lại tới 3,27% mức tăng; PVD lùi 1,98%, HDG lùi 1,62%, DXS lùi 3,29%...\nỞ phía giảm, tình thế khá bi đát. Dù VN-Index giảm rất nhẹ nhưng có tới 107 mã đang mất hơn 1% giá trị. Nhóm này đang chiếm xấp xỉ 37% tổng thanh khoản sàn HoSE. Ngoài một số blue-chips như TCB, VHM, MWG, rất nhiều mã tầm trung đang lao dốc với thanh khoản cao như CII giảm 3,22%, VND giảm 2,92%, VIX giảm 1,44%, VCI giảm 1,9%, DIG giảm 1,4%, PDR giảm 1,92%. Các mã này đều khớp vượt ngưỡng trăm tỷ đồng. Các cổ phiếu này đều bị đánh tụt khỏi giá đỉnh với biên độ lớn.\nThanh khoản sàn HoSE sáng nay tăng 10,4% so với sáng hôm qua, đạt gần 9.313 tỷ đồng nhưng độ rộng kém hơn hẳn. Đây là tín hiệu của áp lực bán tăng, không chỉ kiềm chế dao động giá mà còn chủ động đẩy thanh khoản lên.\nNhà đầu tư nước ngoài đang bán ròng 212,2 tỷ đồng nhưng tổng quy mô bán không mạnh, đạt khoảng 970,1 tỷ đồng trên sàn HoSE, giảm nhẹ so với sáng hôm qua. Một số mã bị bán nổi bật là VCI -54,7 tỷ, FPT -51,2 tỷ, HAH -47,8 tỷ, STB -24,4 tỷ. Phía mua ròng có HPG +126 tỷ, VIC +61,6 tỷ, GEX +21,1 tỷ.",
+        "sector":"BĐS",
+        "companies":[
+            {
+                "company_name":"Công ty Cổ phần Vinhomes",
+                "company_stock_id":"VHM"
+            },
+            {
+                "company_name":"Công ty Cổ phần Đầu tư và Kinh doanh nhà Khang Điền",
+                "company_stock_id":"KDH"
+            },
+            {
+                "company_name":"CTCP Tập đoàn Hà Đô",
+                "company_stock_id":"HDG"
+            },
+            {
+                "company_name":"CTCP Phát triển Bất động sản Phát Đạt",
+                "company_stock_id":"PDR"
+            },
+            {
+                "company_name":"CTCP Dịch vụ Bất động sản Đất Xanh",
+                "company_stock_id":"DXS"
+            },
+            {
+                "company_name":"CTCP Đầu tư Nam Long",
+                "company_stock_id":"NLG"
+            }
+        ],
+        "sentiment_label_predicted":1,
+        "sentiment_text_label":"Tiêu cực",
+        "sentiment_score":-1,
+        "He_so":5.5,
+        "article_score":-5.5
+    },
+    {
+        "id":"15",
+        "date":"2025-06-06",
+        "title":"15",
+        "link":"https:\/\/vneconomy.vn\/cac-nha-dau-tu-lon-dang-dich-chuyen-khoi-thi-truong-my.htm",
+        "content":"Các động thái chính sách thương mại thất thường của ông Trump đã làm rung chuyển thị trường toàn cầu trong những tháng gần đây, gây ra đợt bán tháo mạnh đồng USD và khiến giá cổ phiếu Phố Wall tụt hậu xa so với các thị trường ở châu Âu trong năm nay. Bên cạnh đó, dự luật giảm thuế mang tính bước ngoặt của ông Trump, được dự báo sẽ khiến nợ công của Mỹ tăng thêm 2,4 nghìn tỷ USD trong 1 thập kỷ tới, cũng đã làm gây áp lực giảm lên giá trái phiếu kho bạc Mỹ.\nViệc giới đầu tư bớt hứng thú với tài sản Mỹ đã đẩy các thị trường châu Âu tăng cao trong khi thị trường Mỹ đuối sức. Theo tờ Financial Times, cuộc dịch chuyển này của dòng vốn đã được báo hiệu thông qua kết quả các cuộc khảo sát về quyết định phân bổ vốn của các nhà đầu tư tổ chức lớn. Một cuộc thăm dò ý kiến ​​các nhà quản lý quỹ do ngân hàng Bank of America công bố kết quả vào tháng trước cho thấy ý định phân bổ vốn dưới mức (underweight) vào đồng USD sâu nhất trong gần 2 thập kỷ.\n“Mọi người cần suy nghĩ lại” về việc nắm giữ tài sản Mỹ - CEO Seth Bernstein của AllianceBernstein, công ty quản lý số tài sản trị giá 780 tỷ USD, phát biểu trên tờ báo Financial Times.\n“Thâm hụt ngân sách chính phủ Mỹ vốn dĩ đã là một vấn đề và đang trở nên tồi tệ hơn”, ông nói thêm. “Tôi cho rằng việc Chính phủ Mỹ tiếp tục vay nợ với tốc độ như hiện nay là không bền vững. Cộng thêm với sự khó lường của chính sách thương mại, điều đó sẽ khiến mọi người khựng lại và nghĩ: nên tập trung ở mức độ như thế nào vào một thị trường?”\nMột nhà điều hành cấp cao tại một công ty quản lý vốn tư nhân lớn của Mỹ gọi kế hoạch thuế quan đối ứng của ông Trump là “hồi chuông cảnh tỉnh đối với những nhà đầu tư đang phân bổ vốn trên mức (overweight) vào Mỹ”.\nTrong lúc các nhà đầu tư tổ chức tiến hành đánh giá lại việc nắm giữ tài sản Mỹ, quỹ lương hưu lớn thứ hai của Canada là Caisse de dépôt et placement du Québec gần đây tuyên bố sẽ giảm nắm giữ tài sản Mỹ - bộ phận hiện chiếm 40% danh mục của quỹ. Thay vào đó, quỹ có ý định tăng đầu tư vào Anh, Pháp và Đức.\n“Mỹ là nơi tốt nhất trên thế giới để đầu tư trong 1 thế kỷ qua, nhưng tôi bắt đầu nghe thấy các nhà đầu tư đặt câu hỏi rằng liệu chủ nghĩa ngoại lệ Mỹ có đang trở nên bớt ngoại lệ hay không, và họ cũng nghĩ xem liệu họ có phải điều chỉnh danh mục cho phù hợp với thực tế mới hay không”, ông Howard Marks - nhà đồng sáng lập công ty quản lý quỹ Oaktree Capital Management với lượng tài sản được quản lý là 203 tỷ USD - nói với Financial Times.\nThị trường chứng khoán Mỹ đến hiện tại đã hồi phục được phần điểm số bị mất sau khi ông Trump công bố thuế quan đối ứng vào hôm 2\/4. Tuy nhiên, chỉ số S&P 500 mới chỉ tăng chưa đầy 2% từ đầu năm, đuối so với mức tăng 9% của chỉ số Stoxx Europe 600 của chứng khoán châu Âu. Tỷ giá đồng USD đang ở gần mức thấp nhất 3 năm, giảm 9% từ đầu năm tới nay cho dù ông Trump đã hoãn nhiều kế hoạch thuế quan mà ông công bố.\nCác nhà đầu tư cho rằng việc Mỹ là nền kinh tế lớn nhất thế giới và quy mô khổng lồ của thị trường vốn của nước này có nghĩa là Mỹ sẽ vẫn là điểm đến hàng đầu cho các nhà đầu tư toàn cầu. Tuy nhiên, nhiều người đang đặt câu hỏi liệu dòng vốn chảy vào thị trường Mỹ và sự tăng trưởng vượt trội của thị trường này trong một thập kỷ rưỡi qua -  những yếu tố đã đưa giá trị vốn hóa của chứng khoán Mỹ tăng 2\/3 tính đến đầu năm nay - có đang đảo chiều hay không.\n“Chúng tôi đã bắt đầu thấy những dấu hiệu ban đầu về việc nhà đầu tư dịch chuyển khỏi Mỹ”, ông Richard Oldfield, CO công ty quản lý tài sản Schroders của Anh, cho biết.\nCác thị trường ở châu Âu, nơi Chính phủ Đức dự kiến ​​sẽ chi 1 nghìn tỷ euro cho quốc phòng và cơ sở hạ tầng để thúc đẩy tăng trưởng, đang hưởng lợi từ sự cảnh giác của các nhà đầu tư với các tài sản Mỹ. “Chúng tôi khá lạc quan” về châu Âu - ông Tom Nides, Phó chủ tịch công ty quản lý tài sản Blackstone, cho biết. “Các chính phủ ở đây tương đối ổn định. Chuyển vốn đầu tư sang châu Âu chắc chắn không phải là một sự đặt cược tồi”.\nCông ty đầu tư Neuberger Berman có trụ sở ở New York năm nay phân bổ 65% các khoản đầu tư về cổ phần tư nhân vào thị trường châu Âu, tăng từ mức 20-30% trong những năm gần đây - theo bà Joana Rocha Scaff, trưởng bộ phận cổ phần tư nhân châu Âu của công ty.\n“Mối quan tâm đến châu Âu đang ngày càng lớn. Vấn đề không chỉ nằm ở thuế quan, mà môi trường vĩ mô ở châu Âu cũng ôn hòa hơn so với ở Mỹ. Cuộc chiến thương mại, sự bấp bênh chính sách ở Mỹ, và dự luật giảm thuế của Mỹ đang có ảnh hưởng tới các nhà đầu tư nước ngoài”, bà Scaff phát biểu.\nMột số nhà đầu tư đặt câu hỏi liệu các thị trường nhỏ hơn, phân tán hơn ở châu Âu và châu Á có mang lại một lựa chọn thay thế có ý nghĩa cho các nhà đầu tư thoái vốn khỏi Mỹ hay không. “Kinh tế châu Âu vẫn tăng trưởng ảm đạm và mức độ quy chế giám sát vẫn còn rất cao. Thị trường Trung Quốc thì phức tạp. Liệu còn nơi nào khác để nhà đầu tư triển khai lượng vốn lớn?” ông Marks nhấn mạnh trong cuộc trao đổi với Financial Times.",
+        "sector":"Ngân hàng",
+        "companies":[
+            {
+                "company_name":"Ngân hàng TMCP Ngoại thương Việt Nam",
+                "company_stock_id":"VCB"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Đầu tư và Phát triển Việt Nam",
+                "company_stock_id":"BID"
+            },
+            {
+                "company_name":"Ngân hàng TMCP Á Châu",
+                "company_stock_id":"ACB"
+            }
+        ],
+        "sentiment_label_predicted":1,
+        "sentiment_text_label":"Tiêu cực",
+        "sentiment_score":-1,
+        "He_so":6.0,
+        "article_score":-6.0
+    },
+    {
+        "id":"16",
+        "date":"2025-06-06",
+        "title":"16",
+        "link":"https:\/\/vneconomy.vn\/cong-ty-con-cua-tlg-len-ke-hoach-nhan-chuyen-nhuong-gan-8-3-trieu-co-phieu-pnc.htm",
+        "content":"Ông Nguyễn Hữu Đức báo cáo về ngày không còn là cổ đông lớn Công ty Cổ phần Văn hóa Phương Nam (mã PNC-HOSE).\nTheo đó, ngày 3\/6, ông Nguyễn Hữu Đức thông báo đã bán thành công 1.136.081 cổ phiếu, chiếm 10,52% vốn tại PNC và ông Đức không còn là cổ đông lớn của PNC.\nĐược biết, PNC đã tổ chức thành công ĐHĐCĐ thường niên 2025 với tổng doanh thu thuần dự kiến 645 tỷ và lợi nhuận sau thuế đạt 14 tỷ đồng.\nĐáng chú ý là cổ đông PNC thông qua việc miễn chào mua công khai đối với giao dịch chuyển nhượng 2.949.931 cổ phần của nhóm 6 cổ đông; 2.138.060 cổ phần  của nhóm 4 cổ đông và 3.207.516 cổ phần của nhóm 5 cổ đông cho Công ty TNHH MTV Thương mại Dịch vụ Tân Lực Miền Nam theo phương thức giao dịch khớp lệnh hoặc thỏa thuận thông qua hệ thống giao dịch HOSE. Thời gian dự kiến thực hiện từ quý 2\/2025 cho đến khi hoàn tất giao dịch.\nHiện PNC có 10.799.351 cổ phiếu đang lưu hành và tổng giao dịch của 3 nhóm cổ đông này là 8.295.507 cổ phiếu, chiếm 76,8% vốn điều lệ của PNC.\nTheo báo cáo thường niên 2024 của Công ty Cổ phần Tập đoàn Thiên Long (mã TLG-HOSE) thì Công ty TNHH MTV Thương mại Dịch vụ Tân Lực Miền Nam là 1 trong 5 công ty con của TLG có vốn điều lệ là 150 tỷ, với tỷ lệ biểu quyết là 100%. Hoạt động chính của công ty con này là kinh doanh văn phòng phẩm có trụ sở đặt tại Tp.HCM.\nQua đó, HĐQT TLG đã thông qua việc Công ty TNHH MTV Thương mại Dịch vụ Tân Lực Miền Nam nhận chuyển nhượng cổ phần từ các cổ đông của PNC với mục đích là tìm kiếm cơ hội đầu tư và giao cho ông Cô Gia Thọ đại diện được quyền quyết định toàn bộ các vấn đề liên quan đến giao dịch trên.\nHiện cổ đông lớn nhất của Phương Nam là Tổng công ty Công Nghiệp – In – Bao bì Liksin TNHH MTV – doanh nghiệp 100% vốn Nhà nước – đang nắm giữ hơn 1,6 triệu cổ phiếu PNC, tương đương 15,05% vốn điều lệ.\nVề nhân sự: HĐQT công ty đã bổ nhiệm ông Nguyễn Tuấn Quỳnh (1972) giữ chức vụ Chủ tịch HĐQT, Người đại diện pháp luật (2022-2026); ông Nguyễn Hữu Hoạt (1961) - Chủ tịch HĐQT bổ nhiệm Phó Chủ tịch HĐQT; bà Võ Thị Hoàng Quân (1973) giữ chức Tổng giám đốc PNC và cũng là giám đốc chiến lược của Tập đoàn Thiên Long, thay thế bà Nguyễn Như Quỳnh – người đã nộp đơn xin rút khỏi vị trí Tổng giám đốc kiêm Phó chủ tịch HĐQT, đồng thời đề nghị chấm dứt hợp đồng lao động với công ty; bổ nhiệm ông Nguyễn Đình Thứ (1991) - Giám đốc đầu tư của Tjaap đoàn Thiên Long và cũng là Giám đốc kiêm Người đại diện theo Pháp luật của Công ty TNHH MTV Thương mại Dịch vụ Tân Lực Miền Nam - giữ chức vụ Phó tổng giám đốc thay ông Lê Quý Phú.\nĐồng thời, HĐQT chập thuận đơn vị từ nhiệm thành viên HĐQT của bà Nguyễn Như Quỳnh, ông Nguyễn Đức Long, ông Võ Thành Đông Phương theo nguyện vọng cá nhân.\nKết thúc quý 1\/2025, PNC ghi nhận doanh thu hợp nhất đạt 146,33 tỷ đồng, tăng gần 11,7 tỷ đồng so với cùng kỳ (134,6 tỷ đồng), lợi nhuận sau thuế đạt 2,49 tỷ đồng, tăng 79 triệu so với cùng kỳ (2,41 tỷ đồng). Còn Tập đoàn Thiên Long ghi nhận lợi nhuận sau thuế giảm hơn 10 tỷ so với cùng kỳ, từ 88,3 tỷ hồi quý 1\/2024 xuống 78,4 tỷ đồng và lợi nhuận sau thuế chưa phân phối giảm từ 935 tỷ xuống gần 858 tỷ đồng.\nTrên thị trường, chốt phiên giao dịch ngày 5\/6, giá cổ phiếu PNC tiếp tục tăng trần, dừng ở mức 29.350 đồng\/cổ phiếu.",
+        "sector":"Tiêu dùng khác",
+        "companies":[
+            {
+                "company_name":"CTCP Tập đoàn Thiên Long",
+                "company_stock_id":"TLG"
+            }
+        ],
+        "sentiment_label_predicted":2,
+        "sentiment_text_label":"Trung lập",
+        "sentiment_score":0,
+        "He_so":2.0,
+        "article_score":0.0
+    },
+    {
+        "id":"17",
+        "date":"2025-06-06",
+        "title":"17",
+        "link":"https:\/\/vneconomy.vn\/vef-chot-danh-sach-tra-co-tuc-voi-ty-le-43-500-dong-co-phieu.htm",
+        "content":"CTCP Trung tâm Hội chợ Triển lãm Việt Nam - VEFAC (VEF-UPCoM) vừa thông báo chốt danh sách cổ đông để thực hiện quyền nhận cổ tức năm 2024 và tạ mứng cổ tức quý 1\/2025.\nTheo đó, VEF sẽ chi trả cổ tức từ lợi nhuận sau thuế chưa phân phối lũy kế đến ngày 31\/12\/2024: 135% vốn điều lệ (1 cp được nhận 13.500 đồng) và tạm ứng cổ tức đợt 1\/2025 từ lợi nhuận sau thuế quý 1\/2025 là 300%\/cổ điều lệ (1 cp được nhận 30.000 đồng). Ngày đăng ký cuối cùng là ngày 13\/6 và ngày thanh toán là ngày 4\/7\/2025.\nĐược biết, Trung tâm Hội chợ Triển lãm Việt Nam được thành lập từ những năm 1960, đã trải qua nhiều giai đoạn phát triển với các tên gọi khác nhau: Khu Triển lãm Giảng Võ (1975 - 1978), Khu Triển lãm Trung ương (1979 -1982), Trung tâm Triển lãm thành tựu kinh tế kỹ thuật Việt Nam (1982 - 1985), và Trung tâm Triển lãm Giảng Võ (1985 - 1989). Ngày 18\/01\/1989, Hội đồng Bộ trưởng ban hành quyết định thành lập Trung tâm Hội chợ Triển lãm Việt Nam, là một đơn vị sự nghiệp có thu.\nĐến ngày 04\/05\/1995, Trung tâm chuyển đổi thành doanh nghiệp Nhà nước với chức năng kinh doanh chính là tổ chức triển lãm, hội chợ, hội nghị trong và ngoài nước, kinh doanh các loại hình dịch vụ, quảng cáo, thông tin, thương mại trong và ngoài nước.\nNgày 30\/06\/2010, Trung tâm Hội chợ Triển lãm Việt Nam được chuyển đổi thành Công ty TNHH MTV Trung tâm Hội chợ Triển lãm Việt Nam theo quyết định của Bộ Văn hóa Thể thao và Du lịch (“Bộ VHTTDL”).\nNgày 04\/01\/2011, Trung tâm Hội chợ Triển lãm Việt Nam đổi tên thành Công ty TNHH MTV Trung tâm Hội chợ Triển lãm Việt Nam (“Công ty VEFAC”) và VEFAC kế thừa toàn bộ quyền lợi và nghĩa vụ của Trung tâm Hội chợ Triển lãm Việt Nam, tiếp tục cổ phần hóa gắn với thực hiện dự án theo quyết định của Thủ tướng Chính phủ và Bộ VHTTDL (theo chỉ đạo của Thủ tướng Chính phủ tại Văn bản số 1082\/TTg-ĐMDN ngày 25\/06\/2010 và của Bộ Văn hóa, Thể thao và Du lịch tại Quyết định số 2295\/QĐ-BVHTTDL ngày 30\/06\/2010).\nNgày 03\/02\/2016, Thủ tướng Chính phủ đồng ý nhập Trung tâm Hội chợ Triển lãm quốc gia và Trung tâm Hội chợ Triển lãm quốc tế để thành lập Trung tâm Hội chợ Triển lãm quốc gia mới tại huyện Đông Anh, Hà Nội. Nguồn vốn đầu tư xây dựng Dự án được lấy từ nguồn thu từ các Dự án thành phần. Theo đó, bao gồm các dự án:\n- Dự án Trung tâm Hội chợ triển lãm quốc gia tại huyện Đông Anh, thành phố Hà Nội, đây sẽ là trung tâm triển lãm hiện đại, tiên tiến ngang tầm khu vực và thế giới;\n- Dự án Khu đô thị mới Đông Anh huyện Đông Anh, thành phố Hà Nội; Nam Đại lộ Thăng Long tại các phường thuộc quận Nam Từ Liêm, thành phố Hà Nội; Tổ hợp Trung tâm Thương mại Dịch vụ và hỗn hợp tại 148 Giảng Võ, Ba Đình, Hà Nội.\nNgày 11\/02\/2015, Bộ VHTTDL đã phê duyệt Phương án cổ phần hóa và chuyển Công ty TNHH MTV Trung tâm Hội chợ Triển lãm Việt Nam thành Công ty cổ phần.\nNgày 20\/03\/2015, cuộc bán đấu giá cổ phần lần đầu ra bên ngoài của Công ty TNHH MTV Trung tâm Hội chợ Triển lãm Việt Nam được tổ chức tại HNX với giá đấu giá thành công bình quân là 10.058 đồng\/cổ phần và tổng số lượng cổ phần bán được là 620.500 cổ phần.\nNgày 06\/05\/2015, Công ty TNHH MTV Trung tâm Hội chợ Triển lãm Việt Nam chính thức trở thành Công ty cổ phần Trung tâm Hội chợ Triển lãm Việt Nam với mức vốn điều lệ là 1.666.040.500.000 đồng.\nNgày 25\/11\/2015, cổ phiếu Công ty được chấp thuận đăng ký giao dịch trên hệ thống UPCOM với mã chứng khoán VEF và chính thức giao dịch vào ngày 22\/12\/2015 với giá tham chiếu 10.100 đồng\/cp.\nHiện tại, công ty đã và đang thực hiện song song các nhiệm vụ chiến lược chính để duy trì, phát triển lĩnh vực cốt lõi tổ chức hội chợ triển lãm; tổ chức hội nghị, hội thảo; thiết kế, thi công gian hàng; thực hiện quàng cáo và đầu tư, xây dựng các dự án được giao.\nTrụ sở chính của VEF đặt tại Thôn Lại Đà, xã Đông Hội, huyện Đông Anh, thành phố Hà Nội.\nTrong cơ cấu cổ đông của VEF, Tập đoàn Vingroup - Công ty CP (mã VIC-HOSE) là công ty mẹ của VEF với tỷ lệ cổ phần sở hữu của công ty mẹ: 83,32% (tương ứng 1.388.109.450.000 đồng) vốn điều lệ Công ty cổ phần Trung tâm Hội chợ Triển lãm Việt Nam.\nKết thúc năm 2024, công ty ghi nhận tổng doanh thu cung cấp dịch vụ và doanh thu tài chính đạt 1.259,1 tỷ đồng, tăng 119,7% so với năm 2023. Lợi nhuận trước thuế đạt 1.1845,0 tỷ đồng, tăng 117,8% so với năm 2023 và lợi nhuận sau thuế đạt 942,1 tỷ đồng, tăng 116,7% so với cùng kỳ năm trước.\nTính đến ngày 31\/12\/2024, tổng tài sản của Công ty là gần 105.107,1 tỷ đồng, tăng hơn 95.307,9 tỷ đồng so với cùng kỳ chủ yếu do các chi tiêu: Tiền và tương đường tiền tăng 1.199,4 tỷ đồng; Phải thu ngắn hạn khác tăng 63.467,5 tỷ đồng; Hàng tồn kho tăng 20.891,5 tỷ đồng; Phải thu về cho vay dài hạn tăng 10.369,0 tỷ đồng;\nCũng tính đến ngày 31\/12\/2024, tổng nguồn vốn của công ty tăng gần 95.308 tỷ đồng so với cùng kỳ chủ yếu do: nợ ngắn hạn tăng 92.893,3 tỷ đồng - chủ yếu đến từ việc người mua trả tiền trước ngắn hạn tăng 63.090,1 tỷ đồng và phải trả ngắn hạn khác tăng 23.681,3 tỷ đồng; Nợ dài hạn giảm 1.472 tỷ đồng và lợi nhuận sau thuế chưa phân phối tăng 942,2 tỷ đồng lên 2.346.960.000.000 đồng.\nKết thúc quý 1\/2025, công ty báo lãi 14.873 tỷ đồng, tăng 16,135% so với cùng kỳ (91,615 tỷ đồng) tương ứng tăng 14.782 tỷ đồng so với cùng kỳ năm 2024 chủ yếu từ việc ghi nhận doanh thu chuyển nhượng một phần dự án Vinhomes Global Gate và tăng doanh thu tài chính từ hoạt động hợp tác kinh doanh. Qua đó, nâng lợi nhuận sau thuế chưa phân phối tăng từ 2.346.960.000.000 đồng lên 17.220.296.000.000 đồng.",
+        "sector":"BĐS",
+        "companies":[
+            {
+                "company_name":"Tập đoàn Vingroup - CTCP",
+                "company_stock_id":"VIC"
+            }
+        ],
+        "sentiment_label_predicted":2,
+        "sentiment_text_label":"Trung lập",
+        "sentiment_score":0,
+        "He_so":5.5,
+        "article_score":0.0
+    },
+    {
+        "id":"18",
+        "date":"2025-06-06",
+        "title":"18",
+        "link":"https:\/\/vneconomy.vn\/ong-trump-va-ong-tap-dien-dam-nhat-tri-dam-phan-thuong-mai-vong-hai.htm",
+        "content":"Tổng thống Mỹ Donald Trump và Chủ tịch Trung Quốc Tập Cận Bình đã có một cuộc điện đàm vào ngày thứ Năm (5\/6), nhất trí rằng quan chức hai nước sẽ sớm tiến hành vòng đàm phán tiếp theo để giải quyết cuộc chiến thương mại song phương.\nÔng Trump cho biết ông đã có một cuộc điện đàm “rất tốt đẹp” kéo dài khoảng 90 phút với ông Tập và cuộc nói chuyện này tập trung “gần như hoàn toàn” vào vấn đề thương mại. Trong một bài đăng trên mạng xã hội Truth Social, ông nói cuộc gọi “dẫn tới một kết quả rất tích cực cho cả hai nước”.\nTheo ông chủ Nhà Trắng, Bộ trưởng Bộ Tài chính Mỹ Scott Bessent, Bộ trưởng Bộ Thương mại Mỹ Howard Lutnick và Đại diện Thương mại Mỹ Jamieson Greer sẽ đại diện Mỹ trong vòng đàm phán thương mại tiếp theo với Trung Quốc. Tuy nhiên, thời gian và địa điểm của vòng đàm phán thứ hai còn chưa được quyết định.\nGiới chức Mỹ - Trung đã có cuộc gặp đầu tiên vào tháng 5 ở Thụy Sỹ, với kết quả là một thỏa thuận tạm thời mà hai bên hạ thuế quan đối ứng cho nhau về 10% trong vòng 90 ngày. Nhưng gần đây, chính quyền ông Trump cáo buộc phía Bắc Kinh chậm thực thi cam kết ở Geneva về phê chuẩn xuất khẩu đất hiếm sang Mỹ.\nTrước khi ông Trump có bài đăng về cuộc điện đàm ngày thứ Năm, Bộ Ngoại giao Trung Quốc và đại sứ quán Trung Quốc ở Mỹ nói ông Trump đã đề nghị điện đàm với ông Tập. Theo hãng tin CNBC, Trump được cho là nóng lòng muốn nói chuyện với nhà lãnh đạo Trung Quốc vì mối quan hệ vốn dĩ đã căng thẳng giữa hai nước có dấu hiệu xấu đi trong thời gian gần đây.\nSau cuộc gọi ngày thứ Năm, ông Trump viết: “Sẽ không còn bất kỳ câu hỏi nào liên quan đến sự phức tạp của các sản phẩm đất hiếm”. Tuy nhiên, ông không giải thích điều này nghĩa là gì.\nPhía Trung Quốc gần đây đã bày tỏ quan điểm rất không hài lòng với việc Mỹ áp hạn chế mới về cấp thị thực (visa) cho du học sinh Trung Quốc. Bắc Kinh cũng cáo buộc Mỹ làm suy yếu tiến trình giải quyết mâu thuẫn thương mại khi đưa ra một cảnh báo trong phạm vi ngành về việc sử dụng linh kiện bán dẫn Trung Quốc.\nBên cạnh đó, chính quyền ông Trump cũng áp thêm các biện pháp hạn chế xuất khẩu đối với con chip. Nhà Trắng nói rằng hành động này là cần thiết để bảo vệ an ninh quốc gia, nhưng Bắc Kinh xem đó là một động thái trừng phạt.\nSau cuộc gọi với ông Tập, ông Trump cũng cho biết ông Tập đã mời ông và đệ nhất phu nhân Melania Trump thăm Trung Quốc, và “tôi đã đáp lại bằng lời mời tương tự”.\nTình trạng đàm phán thương mại “dậm chân tại chỗ” giữa hai nền kinh tế lớn nhất thế giới - hai quốc gia với tổng kim ngạch thương mại hai chiều đạt gần 600 tỷ USD trong năm 2024 - đang gây áp lực lên chiến lược thuế quan của ông Trump. Cuộc gọi ngày thứ Năm đánh dấu mới chỉ lần thứ hai trong năm nay ông Trump và ông Tập điện đàm trực tiếp. Cuộc gọi trước đó diễn ra vào ngày 17\/1, vài ngày trước khi ông Trump nhậm chức.\nTrước cuộc gọi mới nhất, ông Trump đã ca ngợi ông Tập trong một bài đăng trên mạng xã hội, đồng thời cũng tỏ ý phàn nàn. “Tôi quý mến Chủ tịch Tập của Trung Quốc, luôn luôn như vậy. Nhưng ông ấy rất cứng rắn và cực kỳ khó để đạt thỏa thuận”, ông Trump viết vào hôm thứ Tư.\nTrung Quốc là một mục tiêu lớn trong chính sách thuế quan của ông Trump nhằm cân bằng lại mối quan hệ thương mại của Mỹ với phần còn lại của thế giới. Hồi tháng 4, ông đã nâng tổng thuế quan bổ sung áp lên hàng hóa nhập khẩu từ Trung Quốc lên 145% và Trung Quốc trả đũa bằng cách nâng thuế quan áp lên hàng Mỹ lên 125% - những mức thuế được xem như hành động cấm vận thương mại.\nVới thỏa thuận đạt được ở Geneva vào giữa tháng 5, Mỹ hạ thuế quan cho Trung Quốc về 30%, còn Trung Quốc hạ thuế quan cho Mỹ về 10%, có hiệu lực trong 90 ngày.",
+        "sector":"Công nghệ",
+        "companies":[
+            {
+                "company_name":"CTCP Tập đoàn Vingroup - CTCP",
+                "company_stock_id":"VIC"
+            }
+        ],
+        "sentiment_label_predicted":0,
+        "sentiment_text_label":"Tích cực",
+        "sentiment_score":1,
+        "He_so":3.0,
+        "article_score":3.0
+    }
+]

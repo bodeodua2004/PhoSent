@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+requests
+beautifulsoup4
+openai
+pydantic
+python-dotenv
+simpletransformers
+torch
