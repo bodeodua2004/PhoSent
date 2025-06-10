@@ -66,12 +66,13 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: relative; /* For pseudo-elements */
-  width: 120px; /* Size of the gauge area */
-  height: 120px; /* Size of the gauge area */
-  border-radius: 50%; /* Make it circular */
-  overflow: hidden; /* Hide parts of pseudo-elements outside circle */
-  margin: 0 auto 10px auto; /* Center and add margin */
+  position: relative;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto 10px auto;
+  /* background: radial-gradient(circle at center, #ffffff 30%, #e0e0e0 70%); */
 }
 
 .gauge::before { /* Top half of the gauge background */
@@ -83,6 +84,15 @@ body {
     height: 50%; /* Only top half */
     background-color: #e0e0e0; /* Default background for empty gauge */
     border-radius: 60px 60px 0 0; /* Rounded top corners */
+    background: linear-gradient(
+  to right,
+  #ff9999, /* đỏ nhạt đậm */
+  #ffbb66, /* cam nhạt đậm */
+  #ffff99, /* vàng nhạt đậm */
+  #99d699, /* xanh lá nhạt đậm */
+  #99bbff  /* xanh dương nhạt đậm */
+);
+  /* z-index: 0; */
 }
 
 .gauge .score {
